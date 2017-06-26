@@ -6,7 +6,7 @@
 
 ### `sandbox` directory
 
-Fitting `isolate` into PC^2^ system. Run `sudo ./install.sh` to install.
+Fitting `isolate` into PC^2 system. Run `sudo ./install.sh` to install.
 
 ### `desktop` directory
 
@@ -14,7 +14,7 @@ Create executable icons on the desktop. Just copy what you need to `~/Desktop/`
 
 ### `validator` directory
 
-`valid.py` is a script compatible with PC^2^ system. It provide token-based
+`valid.py` is a script compatible with PC^2 system. It provide token-based
 comparison between the answer and the team's output. It supports strictly
 pattern match (`diff` mode) and error tolerate modes (`abs`, `rel` and 
 `abs_rel` modes).
