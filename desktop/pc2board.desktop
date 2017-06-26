@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PC^2 Scoreboard
+Icon=/home/icpc/pc2-9.4.1/pc2.ico
+Comment=PC^2 Scoreboard Client
+Terminal=false
+Categories=Development;
+Exec=/bin/bash -c "cd /home/icpc/pc2-9.4.1 && bin/pc2board"
