@@ -6,4 +6,4 @@ Icon=/home/icpc/pc2-9.4.1/pc2.ico
 Comment=PC^2 Administrator Client
 Terminal=false
 Categories=Development;
-Exec=/bin/bash -c "cd /home/icpc/pc2-9.4.1 && bin/pc2admin"
+Exec=/bin/bash -c "cd $HOME/pc2-9.4.1 && bin/pc2admin"
