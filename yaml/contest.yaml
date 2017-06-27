@@ -1,0 +1,97 @@
+# Contest Configuration, version 1.0 
+# PC^2 Version: Version 9.4.1 20170125 (Wednesday, January 25th 2017 02:54 UTC) Java ver 1.8.0_131 build 3850 Linux 4.10.0-24-generic (amd64) 
+# Created: 2017-06-27 18:04:29 CST
+--- 
+
+name: 'ACM International Collegiate Programming Contest'
+short-name: 'ACM-ICPC'
+elapsed: 0:00:00
+remaining: 5:00:00
+running: false
+start-time: 2017-06-27 16:06:00 CST
+elapsed: 5:00:00
+scoreboard-freeze: 01:00:00
+# load-data-files: false
+
+default-clars:
+  - No response, read problem statement
+
+clar-categories:
+  - General
+
+languages:
+  - name: 'GNU C'
+    active: true
+    compilerCmd: 'pc2box -t 20 -m 3584 -s 1024 -d T -u F gcc -std=c11 -O2 -lm -o {:basename}.exe {:mainfile}'
+    exemask: '{:basename}.exe'
+    execCmd: 'pc2box ./{:basename}.exe'
+    runner: 'pc2box'
+    runner-args: './{:basename}.exe'
+    interpreted: false
+    use-judge-cmd: false
+    judge-exec-cmd: 'pc2box ./{:basename}.exe'
+
+  - name: 'GNU C++'
+    active: true
+    compilerCmd: 'pc2box -t 20 -m 3584 -s 1024 -d T -u F g++ -O2 -lm -o {:basename}.exe {:mainfile}'
+    exemask: '{:basename}.exe'
+    execCmd: 'pc2box ./{:basename}.exe'
+    runner: 'pc2box'
+    runner-args: './{:basename}.exe'
+    interpreted: false
+    use-judge-cmd: false
+    judge-exec-cmd: 'pc2box ./{:basename}.exe'
+
+  - name: 'GNU C++11'
+    active: true
+    compilerCmd: 'pc2box -t 20 -m 3584 -s 1024 -d T -u F g++ -O2 -std=c++11 -lm -o {:basename}.exe {:mainfile}'
+    exemask: '{:basename}.exe'
+    execCmd: 'pc2box ./{:basename}.exe'
+    runner: 'pc2box'
+    runner-args: './{:basename}.exe'
+    interpreted: false
+    use-judge-cmd: false
+    judge-exec-cmd: 'pc2box ./{:basename}.exe'
+
+  - name: 'Java'
+    active: true
+    compilerCmd: 'javac {:mainfile}'
+    exemask: '{:basename}.class'
+    execCmd: 'pc2box java {:basename}'
+    runner: 'pc2box'
+    runner-args: 'java {:basename}'
+    interpreted: false
+    use-judge-cmd: false
+    judge-exec-cmd: 'pc2box java {:basename}'
+
+  - name: 'Python 2'
+    active: true
+    compilerCmd: 'python2 -m py_compile {:mainfile}'
+    exemask: ''
+    execCmd: 'pc2box python2 {:mainfile}'
+    runner: 'pc2box'
+    runner-args: 'python2 {:mainfile}'
+    interpreted: false
+    use-judge-cmd: false
+    judge-exec-cmd: 'pc2box python2 {:mainfile}'
+
+  - name: 'Python 3'
+    active: true
+    compilerCmd: 'python3 -m py_compile {:mainfile}'
+    exemask: ''
+    execCmd: 'pc2box python3 {:mainfile}'
+    runner: 'pc2box'
+    runner-args: 'python3 {:mainfile}'
+    interpreted: false
+    use-judge-cmd: false
+    judge-exec-cmd: 'pc2box python3 {:mainfile}'
+
+sites:
+  - number: 1
+    name: 'Site 1'
+    password: site1
+    IP: 140.113.200.125
+    port: 50002
+
+
+# EOF Contest Configuration

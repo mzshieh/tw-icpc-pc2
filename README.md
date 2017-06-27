@@ -10,7 +10,7 @@ Fitting `isolate` into PC^2 system. Run `sudo ./install.sh` to install.
 
 ### `desktop` directory
 
-Create executable icons on the desktop. Just copy what you need to `~/Desktop/`
+Create executable icons on the desktop. Just copy what you need to `~/Desktop/`.
 
 ### `validator` directory
 
@@ -21,4 +21,8 @@ pattern match (`diff` mode) and error tolerate modes (`abs`, `rel` and
 
 ### `testcode` directory
 
-Some codes are provided for testing the judge system.
+Some codes are provided for testing the judge system
+
+### `yaml` directory
+
+Some useful configuration file(s) for PC^2 system
