@@ -28,22 +28,36 @@ verdict = '<?xml version="1.0"?><result outcome="%s" security="'
 verdict += args.verdict
 verdict +='"> %s </result>'
 
-def bad(ans,out):
-    if args.mode == 'diff':
-        return ans != out
-    elif args.mode == 'abs':
-        return fabs(float(ans)-float(out)) > args.error
+def invalidToken(ans,out):
+    # If two tokens are the same, then the output is valid.
+    if ans == out: return False
+
+    # Cast str to float. If failed, then the output is invalid. Raise an exception.
+    # Note: The validator still work for format including strings, since identical
+    #       two tokens should pass the previous line.
+    a, o = float(ans), float(out)
+    if args.mode == 'abs':
+        return fabs(a-o) > args.error
     elif args.mode == 'rel':
-        return float(ans)==0 or fabs((float(ans)-float(out))/float(ans)) > args.error
+        return a==0 or fabs((a-o)/a) > args.error
     elif args.mode == 'abs_rel':
-        if fabs(float(ans)-float(out)) <= args.error: return False
-        return float(ans)==0 or fabs((float(ans)-float(out))/float(ans)) > args.error
+        if fabs(a-o) <= args.error: return False
+        return a==0 or fabs((a-o)/a) > args.error
     return True
+
+def invalidLine(ans,out):
+    if args.mode == 'diff':
+        # Purely line-based: currently, only diff is.
+        return ans != out
+    # Token-based validator for each line
+    # abs, rel, abs_rel
+    ans, out = ans.split(), out.split()
+    return len(ans)!=len(out) or any(invalidToken(a,o) for a, o in zip(ans,out))
 
 def raiseIfInvalid(IN, OUT, ANS):
     if len(ANS) != len(OUT): ## must have same number of lines
         raise
-    if any(bad(ans,out) for ans, out in zip(ANS,OUT)):
+    if any(invalidLine(ans,out) for ans, out in zip(ANS,OUT)):
         ## NOT OK
         raise
 
