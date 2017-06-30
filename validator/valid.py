@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import sys, os, argparse, re
 from math import fabs
+from subprocess import run
 
 ### Setup argument parser
 parser = argparse.ArgumentParser(description="MZ's PC^2 Validator")
@@ -13,10 +14,12 @@ parser.add_argument('-a','--answer',
 parser.add_argument('-v','--verdict',
                     help='Validator\'s verdict file')
 parser.add_argument('-m','--mode',default='diff',
-                    choices=['diff','abs','rel','abs_rel'],
+                    choices=['diff','abs','rel','abs_rel','ext'],
                     help='Mode (default: %(default)s)')
 parser.add_argument('-e','--error',type=float,default=5*0.0000001,
                     help='Tolerance error (default: %(default)g)')
+parser.add_argument('-x','--external',
+                    help='External validator script')
 parser.add_argument('-t','--time-limit',type=float,default=10.0,
                     help='Time limit (default: %(default)g seconds)')
 
@@ -63,6 +66,9 @@ def raiseIfInvalid(IN, OUT, ANS):
 
 def isAC():
     try:
+        if args.mode == 'ext':
+            if run([args.external,args.input,args.output,args.answer]).exitcode:
+                raise
         ## Line-based checking while ignore leading and trailing white spaces
         ## rstrip() removes ' ', '\n', '\r' on the right end
         with open(args.input,'rt') as FILE: 
@@ -80,7 +86,7 @@ def isOCS():
     if os.path.exists('EXITCODE.TXT'):
         with open('EXITCODE.TXT','rt') as FILE:
             return FILE.readline().rstrip() != '0x1'
-    return False
+    return args.mode != 'ext' and args.external
 
 def isTLE():
     with open('SANDBOX_VERDICT','rt') as FILE:
