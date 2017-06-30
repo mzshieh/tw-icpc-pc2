@@ -22,7 +22,7 @@ clar-categories:
 languages:
   - name: 'GNU C'
     active: true
-    compilerCmd: 'pc2box -t 20 -m 3584 -s 1024 -d T -u F gcc -std=c11 -O2 -lm -o {:basename}.exe {:mainfile}'
+    compilerCmd: 'pc2box -t 20 -m 3584 -s 1024 -d T -u F gcc -O2 -lm -o {:basename}.exe {:mainfile}'
     exemask: '{:basename}.exe'
     execCmd: 'pc2box ./{:basename}.exe'
     runner: 'pc2box'
@@ -44,7 +44,18 @@ languages:
 
   - name: 'GNU C++11'
     active: true
-    compilerCmd: 'pc2box -t 20 -m 3584 -s 1024 -d T -u F g++ -O2 -std=c++11 -lm -o {:basename}.exe {:mainfile}'
+    compilerCmd: 'pc2box -t 20 -m 3584 -s 1024 -d T -u F g++ -O2 -std=gnu++11 -lm -o {:basename}.exe {:mainfile}'
+    exemask: '{:basename}.exe'
+    execCmd: 'pc2box ./{:basename}.exe'
+    runner: 'pc2box'
+    runner-args: './{:basename}.exe'
+    interpreted: false
+    use-judge-cmd: false
+    judge-exec-cmd: 'pc2box ./{:basename}.exe'
+
+  - name: 'GNU C++14'
+    active: true
+    compilerCmd: 'pc2box -t 20 -m 3584 -s 1024 -d T -u F g++ -O2 -std=gnu++14 -lm -o {:basename}.exe {:mainfile}'
     exemask: '{:basename}.exe'
     execCmd: 'pc2box ./{:basename}.exe'
     runner: 'pc2box'
@@ -71,7 +82,7 @@ languages:
     execCmd: 'pc2box python2 {:mainfile}'
     runner: 'pc2box'
     runner-args: 'python2 {:mainfile}'
-    interpreted: false
+    interpreted: true
     use-judge-cmd: false
     judge-exec-cmd: 'pc2box python2 {:mainfile}'
 
@@ -82,7 +93,7 @@ languages:
     execCmd: 'pc2box python3 {:mainfile}'
     runner: 'pc2box'
     runner-args: 'python3 {:mainfile}'
-    interpreted: false
+    interpreted: true
     use-judge-cmd: false
     judge-exec-cmd: 'pc2box python3 {:mainfile}'
 
