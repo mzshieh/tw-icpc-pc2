@@ -66,6 +66,9 @@ def raiseIfInvalid(IN, OUT, ANS):
 
 def isAC():
     try:
+        ## External validator
+        ## Run it with arguments input, team_outut, judge answers
+        ## If yes, it returns 0. Otherwise, it return non-zero.
         if args.mode == 'ext':
             if run([args.external,args.input,args.output,args.answer]).exitcode:
                 raise
