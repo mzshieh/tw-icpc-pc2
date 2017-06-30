@@ -20,7 +20,7 @@ parser.add_argument('-d','--dump',type=lambda x: x in ['T','t','True','true'],
                     default=False, help='Dump all files out (default: %(default)s)')
 parser.add_argument('-u','--use-stdin',type=lambda x: x in ['T','t','True','true'],
                     default=True, 
-                    help='False if it read nothing from stdin (default: %(default)s)')
+                    help='The program uses stdin (default: %(default)s)')
 parser.add_argument('cmd',help='Command to execute the program')
 parser.add_argument('arguments',nargs=argparse.REMAINDER,help='Arguments')
 
