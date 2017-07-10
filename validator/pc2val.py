@@ -92,7 +92,7 @@ def isOCS():
     return args.mode != 'ext' and args.external
 
 def isTLE():
-    with open('SANDBOX_VERDICT','rt') as FILE:
+    with open('.SANDBOX_VERDICT','rt') as FILE:
         line = FILE.readline().strip()
         if line.startswith('Time'):
             return True
@@ -118,6 +118,6 @@ with open(args.verdict,'wt') as result:
     print(verdict,file=result)
 
 print(verdict[:-1].split('>')[-1].split('<')[0].strip())
-with open('SANDBOX_RESULT','rt') as FILE:
+with open('.SANDBOX_RESULT','rt') as FILE:
     for line in FILE:
         print(line.strip())

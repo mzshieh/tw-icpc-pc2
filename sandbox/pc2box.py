@@ -36,13 +36,13 @@ dump = res.dump
 use_stdin = res.use_stdin
 
 ### Setup the default file names
-RESULT = 'SANDBOX_RESULT'
-INIT = 'SANDBOX_INIT'
-PATH = 'SANDBOX_PATH'
-VERDICT = 'SANDBOX_VERDICT'
-OUTPUT = 'SANDBOX_OUTPUT_%016X'%ri(0,2**64-1)
-ERROR = 'SANDBOX_ERROR_%016X'%ri(0,2**64-1)
-INPUT = 'SANDBOX_INPUT_%016X'%ri(0,2**64-1)
+RESULT = '.SANDBOX_RESULT'
+INIT = '.SANDBOX_INIT'
+PATH = '.SANDBOX_PATH'
+VERDICT = '.SANDBOX_VERDICT'
+OUTPUT = '.SANDBOX_OUTPUT_%016X'%ri(0,2**64-1)
+ERROR = '.SANDBOX_ERROR_%016X'%ri(0,2**64-1)
+INPUT = '.SANDBOX_INPUT_%016X'%ri(0,2**64-1)
 
 ### Setup the arguments for invoking isolate
 isolate = ['isolate','--box={}'.format(box_id),'--cg']
