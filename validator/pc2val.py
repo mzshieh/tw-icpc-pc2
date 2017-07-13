@@ -70,8 +70,9 @@ def isAC():
         ## Run it with arguments input, team_outut, judge answers
         ## If yes, it returns 0. Otherwise, it return non-zero.
         if args.mode == 'ext':
-            if run([args.external,args.input,args.output,args.answer]).exitcode:
+            if run([args.external,args.input,args.output,args.answer]).returncode:
                 raise
+            else: return True
         ## Line-based checking while ignore leading and trailing white spaces
         ## rstrip() removes ' ', '\n', '\r' on the right end
         with open(args.input,'rt') as FILE: 
