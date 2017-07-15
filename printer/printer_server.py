@@ -1,5 +1,5 @@
 from argparse import ArgumentParser
-from flask import Flask, Response
+from flask import Flask, Response, redirect, render_template, request, session, url_for
 from subprocess import run
 
 app = Flask(__name__)
@@ -27,7 +27,13 @@ def print_get():
 
 @app.route('/print',methods=['POST'])
 def print_post():
-    return 'OK'
+    result = ''
+    for item in request.form:
+        result += str(item)
+    print('hihi')
+    print(request.form)
+    print(request.files)
+    return 'OK\n'+result
 
 if __name__ == '__main__':
     app.run(port=50003)
