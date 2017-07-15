@@ -55,7 +55,7 @@ def print_post():
     logfile = strftime('%H%M%S',localtime(now))+('%.2f_'%(now%1.0))[2:]+filename
     code.save(os.path.join('log/'+team,logfile))
     a2ps(team,filename)
-    return 'OK'
+    return render_template('ok.html')
 
 if __name__ == '__main__':
     app.run(port=50003)
