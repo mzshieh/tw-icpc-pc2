@@ -53,7 +53,7 @@ def print_post():
     os.makedirs('log/'+team,exist_ok=True)
     now = time.time()
     logfile = strftime('%H%M%S',localtime(now))+('%.2f_'%(now%1.0))[2:]+filename
-    code.save(os.path.join('log/'+team,logfile))
+    code.save(os.path.join('log/'+team,request.remote_addr+'.'+logfile))
     a2ps(team,filename)
     return render_template('ok.html')
 
