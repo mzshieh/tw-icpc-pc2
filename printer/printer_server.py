@@ -16,8 +16,16 @@ app.config['MAX_CONTENT_LENGTH'] = 1 * 1024 * 1024
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 ### Load account information
-with open('config/password.json','rt') as FILE:
-    password = json.load(FILE)
+### json format
+### with open('config/password.json','rt') as FILE:
+###     password = json.load(FILE)
+### PC^2 tsv format
+password = {}
+with open('config/account.tsv','rt') as FILE:
+    for line in FILE:
+        line = line.split('\t')
+        if len(line) < 4 or not line[1].startswith('team'): continue
+        password[line[1]] = line[3]
 
 ### Let's pass the name of the contest via arguments!
 if __name__ == '__main__':
