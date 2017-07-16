@@ -16,6 +16,8 @@ parser.add_argument('-t','--time',type=float,default=10.0,
                     help='Time limit in seconds (default: %(default)s)')
 parser.add_argument('-s','--size',type=float,default=1.0,
                     help='Output size limit in megabytes (default: %(default)s)')
+parser.add_argument('-c','--clean-up',type=lambda x: x in ['T','t','True','true'],
+                    default=True, help='Clean-up after execution (default: %(default)s)')
 parser.add_argument('-d','--dump',type=lambda x: x in ['T','t','True','true'],
                     default=False, help='Dump all files out (default: %(default)s)')
 parser.add_argument('-u','--use-stdin',type=lambda x: x in ['T','t','True','true'],
@@ -33,6 +35,7 @@ size_limit = ceil(res.size*1024) # isolate uses kilobytes
 cmd = res.cmd
 arg = res.arguments
 dump = res.dump
+clean_up = res.clean_up
 use_stdin = res.use_stdin
 
 ### Setup the default file names
@@ -114,7 +117,8 @@ with open(VERDICT,'wt') as verdict:
                 os.system('cp -rn {}/* .'.format(box_path))
 
 ### Clean up
-with open('/dev/null','wt'):
-    run(isolate+['--cleanup'])
+if clean_up:
+    with open('/dev/null','wt'):
+        run(isolate+['--cleanup'])
 
 sys.exit(exitcode)
