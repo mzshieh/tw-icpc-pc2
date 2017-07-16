@@ -81,7 +81,6 @@ def print_post():
     if os.stat(fullname).st_size > 128*1024 or num_lines>4096:
         return render_template('too_long.html')
 
-
     ### Copy the file to log with IP and timestamp
     os.makedirs('log/'+team,exist_ok=True)
     now = time.time()
