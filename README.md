@@ -1,4 +1,6 @@
-# PC^2 scripts for ICPC-style contest in Taiwan
+#PC^2 scripts for ICPC-style contest in Taiwan
+
+[Installation Note](https://hackmd.io/s/rJ5pPbeX-)
 
 ### Prerequisites
 + [`isolate`](https://github.com/ioi/isolate/) sandbox
@@ -26,3 +28,7 @@ Some codes are provided for testing the judge system
 ### `yaml` directory
 
 Some useful configuration file(s) for PC^2 system
+
+### `printer` directory
+
+Code Printer for contest

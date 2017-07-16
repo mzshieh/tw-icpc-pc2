@@ -6,11 +6,11 @@
 name: 'ACM International Collegiate Programming Contest'
 short-name: 'ACM-ICPC'
 elapsed: 0:00:00
-remaining: 3:00:00
+remaining: 5:00:00
 running: false
-start-time: 2017-08-15 13:20:00 CST
+start-time: 2099-08-15 13:20:00 CST
 elapsed: 5:00:00
-scoreboard-freeze: 00:30:00
+scoreboard-freeze: 01:00:00
 # load-data-files: false
 
 default-clars:
