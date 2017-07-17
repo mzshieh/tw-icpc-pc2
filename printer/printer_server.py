@@ -92,7 +92,7 @@ def print_post():
     ### Copy the file to log with IP and timestamp
     os.makedirs('log/'+team,exist_ok=True)
     now = time.time()
-    logfile = strftime('%H%M%S',localtime(now))+('%.2f_'%(now%1.0))[2:]+filename
+    logfile = strftime('%H%M%S',localtime(now))+('.%.6f_'%(now%1.0))[2:]+filename
     logfile = request.remote_addr+'_'+logfile
     code.save(os.path.join('log/'+team,logfile))
 
@@ -104,4 +104,4 @@ if __name__ == '__main__':
     if args.to_file:
         os.makedirs('ps',exist_ok=True)
     os.makedirs(app.config['UPLOAD_FOLDER'],exist_ok=True)
-    app.run(host='0.0.0.0',port=args.port)
+    app.run(host='0.0.0.0',port=args.port,threaded=True)
