@@ -1,5 +1,6 @@
 from argparse import ArgumentParser
 from flask import Flask, Response, redirect, render_template, request, session, url_for
+from flask import send_from_directory
 from werkzeug.utils import secure_filename
 from subprocess import run
 from time import strftime, localtime
@@ -17,7 +18,7 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 ### Let's pass the name of the contest via arguments!
 if __name__ == '__main__':
-    parser = ArgumentParser(description='A web-based printer server for programming contest')
+    parser = ArgumentParser(description='A web-based test server for programming contest')
     parser.add_argument('-p','--port',type=int,default=50003,
             help='Port to listen (default: %(default)d)')
     parser.add_argument('-t','--to-file',type=lambda x: x in ['T','t','True','true'],
@@ -26,6 +27,10 @@ if __name__ == '__main__':
             help='The name of the contest')
     args = parser.parse_args()
     contest = ' '.join(args.name)
+
+@app.route('/result',methods=['GET'])
+def result():
+    return send_from_directory(app.config['UPLOAD_FOLDER'],'.SANDBOX_RESULT')
 
 ### Code Printer page
 @app.route('/prog_tester',methods=['GET'])
@@ -70,9 +75,9 @@ def code_test():
 
     if os.fork()==0:
         os.chdir(app.config['UPLOAD_FOLDER'])
-        run(['pc2box','-i 0','-d T','-u F','g++','-O2','-std=c++11',filename])
-        run(['pc2box','-i 1','./a.out'],stdin=open('testdata.in','rt'),stdout=open('ref','wt'))
-        sys.exit(0)
+        run(['pc2box','-i','0','-d','T','-u','F','g++','-O2','-std=c++11',filename])
+        run(['pc2box','-i','1','./a.out'],stdin=open('testdata.in','rt'),stdout=open('ref','wt'))
+        os._exit(0)
 
     return render_template('ok.html')
 

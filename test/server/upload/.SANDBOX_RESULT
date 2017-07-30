@@ -1,9 +1,6 @@
-time:0.004
-time-wall:0.045
-max-rss:2068
+time:0.008
+time-wall:0.048
+max-rss:1824
 csw-voluntary:3
 csw-forced:0
 cg-mem:376
-exitcode:127
-status:RE
-message:Exited with error status 127
