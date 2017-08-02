@@ -1,5 +1,5 @@
 from argparse import ArgumentParser
-from flask import Flask, Response, redirect, render_template, request, session, url_for
+from flask import Flask, Response, redirect, render_template, request, session, url_for, send_from_directory
 from werkzeug.utils import secure_filename
 from subprocess import run
 from time import strftime, localtime
@@ -99,6 +99,10 @@ def print_post():
     ### Ready to print
     a2ps(team,filename,logfile)
     return render_template('ok.html')
+
+@app.route('/favicon.ico')
+def favicon():
+    return send_from_directory('icon/','favicon.ico')
 
 if __name__ == '__main__':
     if args.to_file:
