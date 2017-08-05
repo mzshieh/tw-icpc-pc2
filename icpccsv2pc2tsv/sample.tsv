@@ -1,0 +1,97 @@
+site	account	displayname	password	group	permdisplay	permlogin	externalid	alias	permpassword	longschoolname	shortschoolname	countrycode
+1	administrator1	administrator1	CJLPGDZM		false	true	1001		true			TWN
+1	judge1	judge1	YVTRRYJQ		false	true	1001		true			TWN
+1	judge2	judge2	HPBDBJDM		false	true	1002		true			TWN
+1	judge3	judge3	JCRIMZTA		false	true	1003		true			TWN
+1	judge4	judge4	KMJTBJQP		false	true	1004		true			TWN
+1	judge5	judge5	ULLTJSMW		false	true	1005		true			TWN
+1	judge6	judge6	BQSINWCM		false	true	1006		true			TWN
+1	judge7	judge7	NUYZAYFZ		false	true	1007		true			TWN
+1	judge8	judge8	XYAIHUGF		false	true	1008		true			TWN
+1	judge9	judge9	OEWMCWGY		false	true	1009		true			TWN
+1	judge10	judge10	WTUWCHEM		false	true	1010		true			TWN
+1	judge11	judge11	NUSPAJFX		false	true	1011		true			TWN
+1	judge12	judge12	PZLKJDYD		false	true	1012		true			TWN
+1	scoreboard1	scoreboard1	WPASVKDC		false	true	1001		true			TWN
+1	feeder1	feeder1	NSOSMPQU		false	true	1001		true			TWN
+1	team1	First Time	VXTXQKEU		true	true	1001		false			TWN
+1	team2	NSYSU-Ant	UDJKMRCB		true	true	1002		false			TWN
+1	team3	NPUST2	RMKTPFFP		true	true	1003		false			TWN
+1	team4	CCU_CGSH	VCEQTMOO		true	true	1004		false			TWN
+1	team5	MCU_Smilodon	RBYRWGLL		true	true	1005		false			TWN
+1	team6	HappyMoMo	YOVKQGSL		true	true	1006		false			TWN
+1	team7	MCU_Iguana	OPRKXZOM		true	true	1007		false			TWN
+1	team8	Chihlee No 1.	XJSEWROH		true	true	1008		false			TWN
+1	team9	NSYSU-Cat	YEUVHXPB		true	true	1009		false			TWN
+1	team10	MarriageAfterBachelor	RTGTPEEH		true	true	1010		false			TWN
+1	team11	NTHU_freshman	OKEFQMXI		true	true	1011		false			TWN
+1	team12	Here comes NTNU old tuna	UQQZANBS		true	true	1012		false			TWN
+1	team13	Confusing Science	OWXHEIVV		true	true	1013		false			TWN
+1	team14	tapioka	XONIEJYJ		true	true	1014		false			TWN
+1	team15	NCTU_HollowKnight	ZWRENCSL		true	true	1015		false			TWN
+1	team16	CCU_ToInfinityAndBeyond	WYFBKLNA		true	true	1016		false			TWN
+1	team17	NCTU_Lokia3310	SGDFKGHM		true	true	1017		false			TWN
+1	team18	TKU_P2win	YRQLOKIP		true	true	1018		false			TWN
+1	team19	NCTU_Aurora	LZBKNHAL		true	true	1019		false			TWN
+1	team20	MCU_Fantasy	KYLPGVDV		true	true	1020		false			TWN
+1	team21	Do u have freestyle?	PPECBTXK		true	true	1021		false			TWN
+1	team22	0x5f3759df	NPFSYFND		true	true	1022		false			TWN
+1	team23	MCU_Serval	CBSROCTI		true	true	1023		false			TWN
+1	team24	NPUST1	OBAMHFBZ		true	true	1024		false			TWN
+1	team25	CCU_ChiYuMi	PPUFBIER		true	true	1025		false			TWN
+1	team26	ABC_dog_bit_pig	XOADHQUQ		true	true	1026		false			TWN
+1	team27	UserName	NCGESPXY		true	true	1027		false			TWN
+1	team28	Jinkela	XDXWHMFV		true	true	1028		false			TWN
+1	team29	TearDrops	OZARJAJY		true	true	1029		false			TWN
+1	team30	MCU_Kuma	PJTANOSZ		true	true	1030		false			TWN
+1	team31	NCTU_Leonardo	WWLFSCJO		true	true	1031		false			TWN
+1	team32	NTHU_1388	DOHQZMWO		true	true	1032		false			TWN
+1	team33	NCTU_Ragnarok	YSEASGWS		true	true	1033		false			TWN
+1	team34	NCTU_Asgard	MDJWQISW		true	true	1034		false			TWN
+1	team35	MCU_Orca	CCJALDUS		true	true	1035		false			TWN
+1	team36	neutrino	BFCEIEWM		true	true	1036		false			TWN
+1	team37	WDYLTXWS	XCKZWSTB		true	true	1037		false			TWN
+1	team38	NCTU_Foudre	JGFFFJYY		true	true	1038		false			TWN
+1	team39	TKUIM	ZQPYWRAO		true	true	1039		false			TWN
+1	team40	NCTU_Valkyrie	ZXBMHSOJ		true	true	1040		false			TWN
+1	team41	NPTU_MIS1	YRCEMXYJ		true	true	1041		false			TWN
+1	team42	Undeclared	LLRNIMKO		true	true	1042		false			TWN
+1	team43	YKH	FHVDMFJS		true	true	1043		false			TWN
+1	team44	( O3O)p <{ WU~ }	LYHCWTRC		true	true	1044		false			TWN
+1	team45	NSYSU-Bat	WCHMQUJL		true	true	1045		false			TWN
+1	team46	NDHU_team1	GZYHCKFJ		true	true	1046		false			TWN
+1	team47	Overflow	LXIFZLYS		true	true	1047		false			TWN
+1	team48	NCTU_Radar	FQOHIUKR		true	true	1048		false			TWN
+1	team49	Reversal of destiny	LOHWVGBN		true	true	1049		false			TWN
+1	team50	CJCU_Team1	UPTNEKNJ		true	true	1050		false			TWN
+1	team51	NUK_404NotFound	ZNOHTNTQ		true	true	1051		false			TWN
+1	team52	SuperEdge	RUSITEHR		true	true	1052		false			TWN
+1	team53	NCTU_Forseti	UZXATEMK		true	true	1053		false			TWN
+1	team54	NSYSU-Dog	TUPIMYDQ		true	true	1054		false			TWN
+1	team55	NCTU_Yggdrasill	EUZOAOIR		true	true	1055		false			TWN
+1	team56	TKU_KaTsu	MUHYOFUU		true	true	1056		false			TWN
+1	team57	Micropin	USVLBKTD		true	true	1057		false			TWN
+1	team58	NCTU_Fenrir	LPWGJRVQ		true	true	1058		false			TWN
+1	team59	NTHU_FlyingSheep	LDNSVXFF		true	true	1059		false			TWN
+1	team60	NCTU_Aether	HNIAKHRB		true	true	1060		false			TWN
+1	team61	NSYSU-Eagle	GABZWKEI		true	true	1061		false			TWN
+1	team62	NTHU_freshman02	GVRMWIWK		true	true	1062		false			TWN
+1	team63	NCTU_Tmprry	QUBDIFEA		true	true	1063		false			TWN
+1	team64	MCU_Wolf	FWBSQJGT		true	true	1064		false			TWN
+1	team65	CCU_PLZAC	LVVXQEWU		true	true	1065		false			TWN
+1	team66	JMTH	NRYDCZBT		true	true	1066		false			TWN
+1	team67	MCU_Narwhal	MDBLHYMY		true	true	1067		false			TWN
+1	team68	Love and Peace	SJZEMWXH		true	true	1068		false			TWN
+1	team69	NTCU Telecom1	FJLRMKKV		true	true	1069		false			TWN
+1	team70	Worldisours	ACSLNKAB		true	true	1070		false			TWN
+1	team71	Tourist	MLDRFKLF		true	true	1071		false			TWN
+1	team72	team72	CPBUHZVB		false	true	1072		false			TWN
+1	team73	team73	CNURXFKF		false	true	1073		false			TWN
+1	team74	team74	FNBSSDHE		false	true	1074		false			TWN
+1	team75	team75	EFOJBVWV		false	true	1075		false			TWN
+1	team76	team76	QYPPLGPX		false	true	1076		false			TWN
+1	team77	team77	PONYFSXU		false	true	1077		false			TWN
+1	team78	team78	VPEHTOEG		false	true	1078		false			TWN
+1	team79	team79	EQQHXZUO		false	true	1079		false			TWN
+1	team80	team80	NJJOYOHO		false	true	1080		false			TWN
+1	team81	team81	DYPFGHZI		false	true	1081		false			TWN
