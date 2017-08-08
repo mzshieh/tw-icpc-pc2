@@ -101,7 +101,7 @@ sites:
   - number: 1
     name: 'Site 1'
     password: site1
-    IP: 140.113.200.125
+    IP: 192.168.1.1
     port: 50002
 
 
