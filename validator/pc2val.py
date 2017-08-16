@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import sys, os, argparse, re
-from math import fabs
+from math import fabs, isnan, isinf
 from subprocess import run
 
 ### Setup argument parser
@@ -34,11 +34,16 @@ verdict +='"> %s </result>'
 def invalidToken(ans,out):
     # If two tokens are the same, then the output is valid.
     if ans == out: return False
+    if args.mode == 'diff': return True
 
+    # Floating point mode
     # Cast str to float. If failed, then the output is invalid. Raise an exception.
     # Note: The validator still work for format including strings, since identical
-    #       two tokens should pass the previous line.
+    #       two tokens should pass the previous lines.
     a, o = float(ans), float(out)
+    if isnan(o) or isinf(o):
+        return True
+
     if args.mode == 'abs':
         return fabs(a-o) > args.error
     elif args.mode == 'rel':
@@ -57,7 +62,7 @@ def invalidLine(ans,out):
     ans, out = ans.split(), out.split()
     return len(ans)!=len(out) or any(invalidToken(a,o) for a, o in zip(ans,out))
 
-def raiseIfInvalid(IN, OUT, ANS):
+def raiseIfInvalid(IN, ANS, OUT):
     if len(ANS) != len(OUT): ## must have same number of lines
         raise
     if any(invalidLine(ans,out) for ans, out in zip(ANS,OUT)):
@@ -72,7 +77,8 @@ def isAC():
         if args.mode == 'ext':
             if run([args.external,args.input,args.output,args.answer]).returncode:
                 raise
-            else: return True
+            else:
+                return True
         ## Line-based checking while ignore leading and trailing white spaces
         ## rstrip() removes ' ', '\n', '\r' on the right end
         with open(args.input,'rt') as FILE: 
