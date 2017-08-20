@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<contestStandings>
+  <standingsHeader currentDate="Sun Aug 20 04:41:12 CST 2017" generatorId="$Id$" groupCount="1" medianProblemsSolved="2" problemCount="8" problemsAttempted="8" siteCount="1" systemName="CSUS Programming Contest System" systemURL="http://pc2.ecs.csus.edu/" systemVersion="9.4.1 20170125 build 3850" title="2017 ACM ICPC Asia TOPC / TIC" totalAttempts="1110" totalSolved="284">
+    <groupList/>
+    <colorList/>
+    <problem attempts="162" bestSolutionTime="4" id="1" lastSolutionTime="151" numberSolved="100" title="A"/>
+    <problem attempts="150" bestSolutionTime="12" id="2" lastSolutionTime="124" numberSolved="100" title="B"/>
+    <problem attempts="241" bestSolutionTime="17" id="3" lastSolutionTime="147" numberSolved="42" title="C"/>
+    <problem attempts="202" bestSolutionTime="38" id="4" lastSolutionTime="174" numberSolved="25" title="D"/>
+    <problem attempts="136" bestSolutionTime="111" id="5" lastSolutionTime="179" numberSolved="5" title="E"/>
+    <problem attempts="127" bestSolutionTime="39" id="6" lastSolutionTime="161" numberSolved="10" title="F"/>
+    <problem attempts="79" bestSolutionTime="126" id="7" lastSolutionTime="126" numberSolved="1" title="G"/>
+    <problem attempts="13" bestSolutionTime="89" id="8" lastSolutionTime="89" numberSolved="1" title="H"/>
+  </standingsHeader>
+  <teamStanding firstSolved="4" index="0" lastSolved="142" points="574" problemsAttempted="8" rank="1" solved="7" teamAlias="\OAO/ (not aliasesd)" teamExternalId="1069" teamId="69" teamKey="1TEAM69" teamName="\OAO/" teamSiteId="1" totalAttempts="19">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="4" problemId="A--1329780513095325455" solutionTime="4"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="24" problemId="B-440311956191389648" solutionTime="24"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="true" points="57" problemId="C-3224586316321181564" solutionTime="17"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="43" problemId="D--7351661251623430973" solutionTime="43"/>
+    <problemSummaryInfo attempts="3" index="5" isPending="false" isSolved="true" points="155" problemId="E-4418907247923624395" solutionTime="115"/>
+    <problemSummaryInfo attempts="4" index="6" isPending="false" isSolved="true" points="202" problemId="F-2128573631507228123" solutionTime="142"/>
+    <problemSummaryInfo attempts="5" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="8" isPending="false" isSolved="true" points="89" problemId="H--1330980437275392036" solutionTime="89"/>
+  </teamStanding>
+  <teamStanding firstSolved="16" index="1" lastSolved="165" points="620" problemsAttempted="7" rank="2" solved="7" teamAlias="JAW (not aliasesd)" teamExternalId="1071" teamId="71" teamKey="1TEAM71" teamName="JAW" teamSiteId="1" totalAttempts="14">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="20" problemId="A--1329780513095325455" solutionTime="20"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="16" problemId="B-440311956191389648" solutionTime="16"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="45" problemId="C-3224586316321181564" solutionTime="25"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="51" problemId="D--7351661251623430973" solutionTime="51"/>
+    <problemSummaryInfo attempts="3" index="5" isPending="false" isSolved="true" points="205" problemId="E-4418907247923624395" solutionTime="165"/>
+    <problemSummaryInfo attempts="2" index="6" isPending="false" isSolved="true" points="97" problemId="F-2128573631507228123" solutionTime="77"/>
+    <problemSummaryInfo attempts="4" index="7" isPending="false" isSolved="true" points="186" problemId="G--8185558675012754331" solutionTime="126"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="7" index="2" lastSolved="179" points="510" problemsAttempted="7" rank="3" solved="6" teamAlias="TheKeyBoardmeow (not aliasesd)" teamExternalId="1034" teamId="34" teamKey="1TEAM34" teamName="TheKeyBoardmeow" teamSiteId="1" totalAttempts="14">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="7" problemId="A--1329780513095325455" solutionTime="7"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="50" problemId="B-440311956191389648" solutionTime="30"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="30" problemId="C-3224586316321181564" solutionTime="30"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="true" points="73" problemId="D--7351661251623430973" solutionTime="53"/>
+    <problemSummaryInfo attempts="3" index="5" isPending="false" isSolved="true" points="219" problemId="E-4418907247923624395" solutionTime="179"/>
+    <problemSummaryInfo attempts="2" index="6" isPending="false" isSolved="true" points="131" problemId="F-2128573631507228123" solutionTime="111"/>
+    <problemSummaryInfo attempts="3" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="6" index="3" lastSolved="161" points="561" problemsAttempted="6" rank="4" solved="6" teamAlias="NCTU_Tmprry (not aliasesd)" teamExternalId="1087" teamId="87" teamKey="1TEAM87" teamName="NCTU_Tmprry" teamSiteId="1" totalAttempts="11">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="6" problemId="A--1329780513095325455" solutionTime="6"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="19" problemId="B-440311956191389648" solutionTime="19"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="63" problemId="C-3224586316321181564" solutionTime="43"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="true" points="161" problemId="D--7351661251623430973" solutionTime="121"/>
+    <problemSummaryInfo attempts="2" index="5" isPending="false" isSolved="true" points="131" problemId="E-4418907247923624395" solutionTime="111"/>
+    <problemSummaryInfo attempts="2" index="6" isPending="false" isSolved="true" points="181" problemId="F-2128573631507228123" solutionTime="161"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="10" index="4" lastSolved="120" points="224" problemsAttempted="7" rank="5" solved="5" teamAlias="Jinkela (not aliasesd)" teamExternalId="1038" teamId="38" teamKey="1TEAM38" teamName="Jinkela" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="10" problemId="A--1329780513095325455" solutionTime="10"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="13" problemId="B-440311956191389648" solutionTime="13"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="27" problemId="C-3224586316321181564" solutionTime="27"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="54" problemId="D--7351661251623430973" solutionTime="54"/>
+    <problemSummaryInfo attempts="2" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="120" problemId="F-2128573631507228123" solutionTime="120"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="10" index="5" lastSolved="149" points="359" problemsAttempted="6" rank="6" solved="5" teamAlias="NCTU_Aurora (not aliasesd)" teamExternalId="1025" teamId="25" teamKey="1TEAM25" teamName="NCTU_Aurora" teamSiteId="1" totalAttempts="20">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="10" problemId="A--1329780513095325455" solutionTime="10"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="12" problemId="B-440311956191389648" solutionTime="12"/>
+    <problemSummaryInfo attempts="5" index="3" isPending="false" isSolved="true" points="110" problemId="C-3224586316321181564" solutionTime="30"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="58" problemId="D--7351661251623430973" solutionTime="58"/>
+    <problemSummaryInfo attempts="10" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="6" isPending="false" isSolved="true" points="169" problemId="F-2128573631507228123" solutionTime="149"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="15" index="6" lastSolved="138" points="531" problemsAttempted="6" rank="7" solved="5" teamAlias="NCTU_Foudre (not aliasesd)" teamExternalId="1114" teamId="114" teamKey="1TEAM114" teamName="NCTU_Foudre" teamSiteId="1" totalAttempts="17">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="15" problemId="A--1329780513095325455" solutionTime="15"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="81" problemId="B-440311956191389648" solutionTime="81"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="96" problemId="C-3224586316321181564" solutionTime="76"/>
+    <problemSummaryInfo attempts="5" index="4" isPending="false" isSolved="true" points="218" problemId="D--7351661251623430973" solutionTime="138"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="6" isPending="false" isSolved="true" points="121" problemId="F-2128573631507228123" solutionTime="101"/>
+    <problemSummaryInfo attempts="6" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="13" index="7" lastSolved="41" points="131" problemsAttempted="5" rank="8" solved="4" teamAlias="neutrino (not aliasesd)" teamExternalId="1047" teamId="47" teamKey="1TEAM47" teamName="neutrino" teamSiteId="1" totalAttempts="14">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="13" problemId="A--1329780513095325455" solutionTime="13"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="19" problemId="B-440311956191389648" solutionTime="19"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="61" problemId="C-3224586316321181564" solutionTime="41"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="38" problemId="D--7351661251623430973" solutionTime="38"/>
+    <problemSummaryInfo attempts="9" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="6" index="8" lastSolved="92" points="164" problemsAttempted="5" rank="9" solved="4" teamAlias="Observable Sharing (not aliasesd)" teamExternalId="1049" teamId="49" teamKey="1TEAM49" teamName="Observable Sharing" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="6" problemId="A--1329780513095325455" solutionTime="6"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="16" problemId="B-440311956191389648" solutionTime="16"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="50" problemId="C-3224586316321181564" solutionTime="30"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="92" problemId="D--7351661251623430973" solutionTime="92"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="7" index="9" lastSolved="108" points="188" problemsAttempted="4" rank="10" solved="4" teamAlias="lite (not aliasesd)" teamExternalId="1007" teamId="7" teamKey="1TEAM7" teamName="lite" teamSiteId="1" totalAttempts="5">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="7" problemId="A--1329780513095325455" solutionTime="7"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="17" problemId="B-440311956191389648" solutionTime="17"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="56" problemId="C-3224586316321181564" solutionTime="36"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="108" problemId="D--7351661251623430973" solutionTime="108"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="6" index="10" lastSolved="100" points="197" problemsAttempted="5" rank="11" solved="4" teamAlias="NCTU_Yggdrasill (not aliasesd)" teamExternalId="1076" teamId="76" teamKey="1TEAM76" teamName="NCTU_Yggdrasill" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="6" problemId="A--1329780513095325455" solutionTime="6"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="15" problemId="B-440311956191389648" solutionTime="15"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="56" problemId="C-3224586316321181564" solutionTime="36"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="true" points="120" problemId="D--7351661251623430973" solutionTime="100"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="9" index="11" lastSolved="134" points="218" problemsAttempted="5" rank="12" solved="4" teamAlias="NCTU_Ragnarok (not aliasesd)" teamExternalId="1044" teamId="44" teamKey="1TEAM44" teamName="NCTU_Ragnarok" teamSiteId="1" totalAttempts="21">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="9" problemId="A--1329780513095325455" solutionTime="9"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="23" problemId="B-440311956191389648" solutionTime="23"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="32" problemId="C-3224586316321181564" solutionTime="32"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="true" points="154" problemId="D--7351661251623430973" solutionTime="134"/>
+    <problemSummaryInfo attempts="16" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="12" index="12" lastSolved="71" points="225" problemsAttempted="6" rank="13" solved="4" teamAlias="CCU_ToInfinityAndBeyond (not aliasesd)" teamExternalId="1020" teamId="20" teamKey="1TEAM20" teamName="CCU_ToInfinityAndBeyond" teamSiteId="1" totalAttempts="24">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="12" problemId="A--1329780513095325455" solutionTime="12"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="44" problemId="B-440311956191389648" solutionTime="24"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="true" points="111" problemId="C-3224586316321181564" solutionTime="71"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="58" problemId="D--7351661251623430973" solutionTime="58"/>
+    <problemSummaryInfo attempts="13" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="4" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="13" index="13" lastSolved="75" points="225" problemsAttempted="6" rank="14" solved="4" teamAlias="NTPU Kite (not aliasesd)" teamExternalId="1097" teamId="97" teamKey="1TEAM97" teamName="NTPU Kite" teamSiteId="1" totalAttempts="14">
+    <problemSummaryInfo attempts="2" index="1" isPending="false" isSolved="true" points="36" problemId="A--1329780513095325455" solutionTime="16"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="13" problemId="B-440311956191389648" solutionTime="13"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="true" points="115" problemId="C-3224586316321181564" solutionTime="75"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="61" problemId="D--7351661251623430973" solutionTime="61"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="6" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="9" index="14" lastSolved="69" points="231" problemsAttempted="6" rank="15" solved="4" teamAlias="6wa6 (not aliasesd)" teamExternalId="1111" teamId="111" teamKey="1TEAM111" teamName="6wa6" teamSiteId="1" totalAttempts="26">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="9" problemId="A--1329780513095325455" solutionTime="9"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="43" problemId="B-440311956191389648" solutionTime="43"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="true" points="70" problemId="C-3224586316321181564" solutionTime="30"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="true" points="109" problemId="D--7351661251623430973" solutionTime="69"/>
+    <problemSummaryInfo attempts="10" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="8" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="8" index="15" lastSolved="85" points="233" problemsAttempted="5" rank="16" solved="4" teamAlias="NCTU_Radar (not aliasesd)" teamExternalId="1063" teamId="63" teamKey="1TEAM63" teamName="NCTU_Radar" teamSiteId="1" totalAttempts="11">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="8" problemId="A--1329780513095325455" solutionTime="8"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="29" problemId="B-440311956191389648" solutionTime="29"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="true" points="111" problemId="C-3224586316321181564" solutionTime="71"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="85" problemId="D--7351661251623430973" solutionTime="85"/>
+    <problemSummaryInfo attempts="5" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="4" index="16" lastSolved="91" points="238" problemsAttempted="5" rank="17" solved="4" teamAlias="NSYSU-Eagle (not aliasesd)" teamExternalId="1083" teamId="83" teamKey="1TEAM83" teamName="NSYSU-Eagle" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="4" problemId="A--1329780513095325455" solutionTime="4"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="27" problemId="B-440311956191389648" solutionTime="27"/>
+    <problemSummaryInfo attempts="4" index="3" isPending="false" isSolved="true" points="116" problemId="C-3224586316321181564" solutionTime="56"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="91" problemId="D--7351661251623430973" solutionTime="91"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="12" index="17" lastSolved="122" points="270" problemsAttempted="5" rank="18" solved="4" teamAlias="DaLaBongBa (not aliasesd)" teamExternalId="1029" teamId="29" teamKey="1TEAM29" teamName="DaLaBongBa" teamSiteId="1" totalAttempts="12">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="12" problemId="A--1329780513095325455" solutionTime="12"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="25" problemId="B-440311956191389648" solutionTime="25"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="71" problemId="C-3224586316321181564" solutionTime="51"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="true" points="162" problemId="D--7351661251623430973" solutionTime="122"/>
+    <problemSummaryInfo attempts="5" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="11" index="18" lastSolved="100" points="274" problemsAttempted="5" rank="19" solved="4" teamAlias="CCU_ChiYuMi (not aliasesd)" teamExternalId="1035" teamId="35" teamKey="1TEAM35" teamName="CCU_ChiYuMi" teamSiteId="1" totalAttempts="7">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="11" problemId="A--1329780513095325455" solutionTime="11"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="61" problemId="B-440311956191389648" solutionTime="41"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="102" problemId="C-3224586316321181564" solutionTime="82"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="true" points="100" problemId="D--7351661251623430973" solutionTime="100"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="-1"/>
+  </teamStanding>
+  <teamStanding firstSolved="4" index="19" lastSolved="171" points="274" problemsAttempted="6" rank="20" solved="4" teamAlias="PECaveros (not aliasesd)" teamExternalId="1113" teamId="113" teamKey="1TEAM113" teamName="PECaveros" teamSiteId="1" totalAttempts="14">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="4" problemId="A--1329780513095325455" solutionTime="4"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="20" problemId="B-440311956191389648" solutionTime="20"/>
+    <problemSummaryInfo attempts="6" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="3" index="5" isPending="false" isSolved="true" points="211" problemId="E-4418907247923624395" solutionTime="171"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="true" points="39" problemId="F-2128573631507228123" solutionTime="39"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="5" index="20" lastSolved="126" points="284" problemsAttempted="4" rank="21" solved="4" teamAlias="NTHU_1388 (not aliasesd)" teamExternalId="1043" teamId="43" teamKey="1TEAM43" teamName="NTHU_1388" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="5" problemId="A--1329780513095325455" solutionTime="5"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="30" problemId="B-440311956191389648" solutionTime="30"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="true" points="83" problemId="C-3224586316321181564" solutionTime="43"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="true" points="166" problemId="D--7351661251623430973" solutionTime="126"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="26" index="21" lastSolved="99" points="298" problemsAttempted="6" rank="22" solved="4" teamAlias="DanGan (not aliasesd)" teamExternalId="1017" teamId="17" teamKey="1TEAM17" teamName="DanGan" teamSiteId="1" totalAttempts="23">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="26" problemId="A--1329780513095325455" solutionTime="26"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="54" problemId="B-440311956191389648" solutionTime="34"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="true" points="79" problemId="C-3224586316321181564" solutionTime="39"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="true" points="139" problemId="D--7351661251623430973" solutionTime="99"/>
+    <problemSummaryInfo attempts="8" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="6" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="9" index="22" lastSolved="174" points="307" problemsAttempted="5" rank="23" solved="4" teamAlias="lam (not aliasesd)" teamExternalId="1084" teamId="84" teamKey="1TEAM84" teamName="lam" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="9" problemId="A--1329780513095325455" solutionTime="9"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="22" problemId="B-440311956191389648" solutionTime="22"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="true" points="82" problemId="C-3224586316321181564" solutionTime="82"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="true" points="194" problemId="D--7351661251623430973" solutionTime="174"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="10" index="23" lastSolved="143" points="309" problemsAttempted="5" rank="24" solved="4" teamAlias="NCTU_Valkyrie (not aliasesd)" teamExternalId="1053" teamId="53" teamKey="1TEAM53" teamName="NCTU_Valkyrie" teamSiteId="1" totalAttempts="15">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="10" problemId="A--1329780513095325455" solutionTime="10"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="20" problemId="B-440311956191389648" solutionTime="20"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="116" problemId="C-3224586316321181564" solutionTime="96"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="true" points="163" problemId="D--7351661251623430973" solutionTime="143"/>
+    <problemSummaryInfo attempts="9" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="11" index="24" lastSolved="142" points="312" problemsAttempted="6" rank="25" solved="4" teamAlias="NCTU_Leonardo (not aliasesd)" teamExternalId="1042" teamId="42" teamKey="1TEAM42" teamName="NCTU_Leonardo" teamSiteId="1" totalAttempts="13">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="11" problemId="A--1329780513095325455" solutionTime="11"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="51" problemId="B-440311956191389648" solutionTime="31"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="68" problemId="C-3224586316321181564" solutionTime="48"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="4" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="3" index="6" isPending="false" isSolved="true" points="182" problemId="F-2128573631507228123" solutionTime="142"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="20" index="25" lastSolved="77" points="332" problemsAttempted="6" rank="26" solved="4" teamAlias="NCTU_Aether (not aliasesd)" teamExternalId="1082" teamId="82" teamKey="1TEAM82" teamName="NCTU_Aether" teamSiteId="1" totalAttempts="21">
+    <problemSummaryInfo attempts="3" index="1" isPending="false" isSolved="true" points="60" problemId="A--1329780513095325455" solutionTime="20"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="43" problemId="B-440311956191389648" solutionTime="23"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="true" points="112" problemId="C-3224586316321181564" solutionTime="72"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="true" points="117" problemId="D--7351661251623430973" solutionTime="77"/>
+    <problemSummaryInfo attempts="5" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="5" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="11" index="26" lastSolved="115" points="382" problemsAttempted="5" rank="27" solved="4" teamAlias="Up (not aliasesd)" teamExternalId="1041" teamId="41" teamKey="1TEAM41" teamName="Up" teamSiteId="1" totalAttempts="14">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="11" problemId="A--1329780513095325455" solutionTime="11"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="14" problemId="B-440311956191389648" solutionTime="14"/>
+    <problemSummaryInfo attempts="6" index="3" isPending="false" isSolved="true" points="215" problemId="C-3224586316321181564" solutionTime="115"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="6" isPending="false" isSolved="true" points="142" problemId="F-2128573631507228123" solutionTime="102"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="9" index="27" lastSolved="42" points="97" problemsAttempted="4" rank="28" solved="3" teamAlias="Feast (not aliasesd)" teamExternalId="1116" teamId="116" teamKey="1TEAM116" teamName="Feast" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="9" problemId="A--1329780513095325455" solutionTime="9"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="26" problemId="B-440311956191389648" solutionTime="26"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="62" problemId="C-3224586316321181564" solutionTime="42"/>
+    <problemSummaryInfo attempts="5" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="8" index="28" lastSolved="48" points="102" problemsAttempted="6" rank="29" solved="3" teamAlias="NTHU_freshman (not aliasesd)" teamExternalId="1013" teamId="13" teamKey="1TEAM13" teamName="NTHU_freshman" teamSiteId="1" totalAttempts="18">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="8" problemId="A--1329780513095325455" solutionTime="8"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="26" problemId="B-440311956191389648" solutionTime="26"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="68" problemId="C-3224586316321181564" solutionTime="48"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="9" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="3" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="18" index="29" lastSolved="43" points="129" problemsAttempted="5" rank="30" solved="3" teamAlias="NCTU_Fenrir (not aliasesd)" teamExternalId="1079" teamId="79" teamKey="1TEAM79" teamName="NCTU_Fenrir" teamSiteId="1" totalAttempts="15">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="18" problemId="A--1329780513095325455" solutionTime="18"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="28" problemId="B-440311956191389648" solutionTime="28"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="true" points="83" problemId="C-3224586316321181564" solutionTime="43"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="8" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="13" index="30" lastSolved="55" points="130" problemsAttempted="5" rank="31" solved="3" teamAlias="WDYLTXWS (not aliasesd)" teamExternalId="1048" teamId="48" teamKey="1TEAM48" teamName="WDYLTXWS" teamSiteId="1" totalAttempts="11">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="13" problemId="A--1329780513095325455" solutionTime="13"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="22" problemId="B-440311956191389648" solutionTime="22"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="true" points="95" problemId="C-3224586316321181564" solutionTime="55"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="9" index="31" lastSolved="73" points="147" problemsAttempted="6" rank="32" solved="3" teamAlias="YKH (not aliasesd)" teamExternalId="1057" teamId="57" teamKey="1TEAM57" teamName="YKH" teamSiteId="1" totalAttempts="15">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="9" problemId="A--1329780513095325455" solutionTime="9"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="45" problemId="B-440311956191389648" solutionTime="25"/>
+    <problemSummaryInfo attempts="4" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="true" points="93" problemId="D--7351661251623430973" solutionTime="73"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="18" index="32" lastSolved="83" points="162" problemsAttempted="4" rank="33" solved="3" teamAlias="Here comes NTNU old tuna (not aliasesd)" teamExternalId="1014" teamId="14" teamKey="1TEAM14" teamName="Here comes NTNU old tuna" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="18" problemId="A--1329780513095325455" solutionTime="18"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="41" problemId="B-440311956191389648" solutionTime="41"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="103" problemId="C-3224586316321181564" solutionTime="83"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="10" index="33" lastSolved="99" points="168" problemsAttempted="4" rank="34" solved="3" teamAlias="NSYSU-Bat (not aliasesd)" teamExternalId="1059" teamId="59" teamKey="1TEAM59" teamName="NSYSU-Bat" teamSiteId="1" totalAttempts="17">
+    <problemSummaryInfo attempts="2" index="1" isPending="false" isSolved="true" points="30" problemId="A--1329780513095325455" solutionTime="10"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="19" problemId="B-440311956191389648" solutionTime="19"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="119" problemId="C-3224586316321181564" solutionTime="99"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="12" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="11" index="34" lastSolved="76" points="183" problemsAttempted="4" rank="35" solved="3" teamAlias="CCU_PLZAC (not aliasesd)" teamExternalId="1089" teamId="89" teamKey="1TEAM89" teamName="CCU_PLZAC" teamSiteId="1" totalAttempts="12">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="11" problemId="A--1329780513095325455" solutionTime="11"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="true" points="76" problemId="B-440311956191389648" solutionTime="36"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="96" problemId="C-3224586316321181564" solutionTime="76"/>
+    <problemSummaryInfo attempts="6" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="10" index="35" lastSolved="85" points="196" problemsAttempted="5" rank="36" solved="3" teamAlias="NTHU_FlyingSheep (not aliasesd)" teamExternalId="1081" teamId="81" teamKey="1TEAM81" teamName="NTHU_FlyingSheep" teamSiteId="1" totalAttempts="16">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="10" problemId="A--1329780513095325455" solutionTime="10"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="21" problemId="B-440311956191389648" solutionTime="21"/>
+    <problemSummaryInfo attempts="5" index="3" isPending="false" isSolved="true" points="165" problemId="C-3224586316321181564" solutionTime="85"/>
+    <problemSummaryInfo attempts="6" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="8" index="36" lastSolved="123" points="215" problemsAttempted="3" rank="37" solved="3" teamAlias="NCTU_Asgard (not aliasesd)" teamExternalId="1045" teamId="45" teamKey="1TEAM45" teamName="NCTU_Asgard" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="8" problemId="A--1329780513095325455" solutionTime="8"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="24" problemId="B-440311956191389648" solutionTime="24"/>
+    <problemSummaryInfo attempts="4" index="3" isPending="false" isSolved="true" points="183" problemId="C-3224586316321181564" solutionTime="123"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="40" index="37" lastSolved="72" points="224" problemsAttempted="5" rank="38" solved="3" teamAlias="NTHU_freshman02 (not aliasesd)" teamExternalId="1086" teamId="86" teamKey="1TEAM86" teamName="NTHU_freshman02" teamSiteId="1" totalAttempts="19">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="52" problemId="A--1329780513095325455" solutionTime="52"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="92" problemId="B-440311956191389648" solutionTime="72"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="true" points="80" problemId="C-3224586316321181564" solutionTime="40"/>
+    <problemSummaryInfo attempts="11" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="7" index="38" lastSolved="110" points="228" problemsAttempted="4" rank="39" solved="3" teamAlias="NCTU_Forseti (not aliasesd)" teamExternalId="1073" teamId="73" teamKey="1TEAM73" teamName="NCTU_Forseti" teamSiteId="1" totalAttempts="11">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="7" problemId="A--1329780513095325455" solutionTime="7"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="51" problemId="B-440311956191389648" solutionTime="31"/>
+    <problemSummaryInfo attempts="4" index="3" isPending="false" isSolved="true" points="170" problemId="C-3224586316321181564" solutionTime="110"/>
+    <problemSummaryInfo attempts="4" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="39" index="39" lastSolved="128" points="233" problemsAttempted="3" rank="40" solved="3" teamAlias="CCU_CGSH (not aliasesd)" teamExternalId="1005" teamId="5" teamKey="1TEAM5" teamName="CCU_CGSH" teamSiteId="1" totalAttempts="4">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="39" problemId="A--1329780513095325455" solutionTime="39"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="46" problemId="B-440311956191389648" solutionTime="46"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="true" points="148" problemId="C-3224586316321181564" solutionTime="128"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="21" index="40" lastSolved="132" points="298" problemsAttempted="4" rank="41" solved="3" teamAlias="NSYSU-Dog (not aliasesd)" teamExternalId="1075" teamId="75" teamKey="1TEAM75" teamName="NSYSU-Dog" teamSiteId="1" totalAttempts="19">
+    <problemSummaryInfo attempts="2" index="1" isPending="false" isSolved="true" points="41" problemId="A--1329780513095325455" solutionTime="21"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="65" problemId="B-440311956191389648" solutionTime="45"/>
+    <problemSummaryInfo attempts="4" index="3" isPending="false" isSolved="true" points="192" problemId="C-3224586316321181564" solutionTime="132"/>
+    <problemSummaryInfo attempts="11" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="17" index="41" lastSolved="115" points="304" problemsAttempted="5" rank="42" solved="3" teamAlias="NCU_GoodLuck (not aliasesd)" teamExternalId="1033" teamId="33" teamKey="1TEAM33" teamName="NCU_GoodLuck" teamSiteId="1" totalAttempts="14">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="17" problemId="A--1329780513095325455" solutionTime="17"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="92" problemId="B-440311956191389648" solutionTime="72"/>
+    <problemSummaryInfo attempts="5" index="3" isPending="false" isSolved="true" points="195" problemId="C-3224586316321181564" solutionTime="115"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="-1"/>
+  </teamStanding>
+  <teamStanding firstSolved="13" index="42" lastSolved="147" points="309" problemsAttempted="5" rank="43" solved="3" teamAlias="MCU_Smilodon (not aliasesd)" teamExternalId="1006" teamId="6" teamKey="1TEAM6" teamName="MCU_Smilodon" teamSiteId="1" totalAttempts="12">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="13" problemId="A--1329780513095325455" solutionTime="13"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="true" points="89" problemId="B-440311956191389648" solutionTime="49"/>
+    <problemSummaryInfo attempts="4" index="3" isPending="false" isSolved="true" points="207" problemId="C-3224586316321181564" solutionTime="147"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="23" index="43" lastSolved="123" points="440" problemsAttempted="4" rank="44" solved="3" teamAlias="we_know_nothing_lan_lan_lu~ (not aliasesd)" teamExternalId="1022" teamId="22" teamKey="1TEAM22" teamName="we_know_nothing_lan_lan_lu~" teamSiteId="1" totalAttempts="16">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="23" problemId="A--1329780513095325455" solutionTime="23"/>
+    <problemSummaryInfo attempts="7" index="2" isPending="false" isSolved="true" points="243" problemId="B-440311956191389648" solutionTime="123"/>
+    <problemSummaryInfo attempts="4" index="3" isPending="false" isSolved="true" points="174" problemId="C-3224586316321181564" solutionTime="114"/>
+    <problemSummaryInfo attempts="4" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="10" index="44" lastSolved="21" points="31" problemsAttempted="4" rank="45" solved="2" teamAlias="Undeclared (not aliasesd)" teamExternalId="1056" teamId="56" teamKey="1TEAM56" teamName="Undeclared" teamSiteId="1" totalAttempts="5">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="10" problemId="A--1329780513095325455" solutionTime="10"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="21" problemId="B-440311956191389648" solutionTime="21"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="10" index="45" lastSolved="22" points="32" problemsAttempted="4" rank="46" solved="2" teamAlias="NSYSU-Ant (not aliasesd)" teamExternalId="1002" teamId="2" teamKey="1TEAM2" teamName="NSYSU-Ant" teamSiteId="1" totalAttempts="7">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="10" problemId="A--1329780513095325455" solutionTime="10"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="22" problemId="B-440311956191389648" solutionTime="22"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="9" index="46" lastSolved="24" points="33" problemsAttempted="4" rank="47" solved="2" teamAlias="CSIE.STUST.2017 (not aliasesd)" teamExternalId="1015" teamId="15" teamKey="1TEAM15" teamName="CSIE.STUST.2017" teamSiteId="1" totalAttempts="7">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="9" problemId="A--1329780513095325455" solutionTime="9"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="24" problemId="B-440311956191389648" solutionTime="24"/>
+    <problemSummaryInfo attempts="4" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="11" index="47" lastSolved="23" points="34" problemsAttempted="4" rank="48" solved="2" teamAlias="Micropin (not aliasesd)" teamExternalId="1078" teamId="78" teamKey="1TEAM78" teamName="Micropin" teamSiteId="1" totalAttempts="5">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="11" problemId="A--1329780513095325455" solutionTime="11"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="23" problemId="B-440311956191389648" solutionTime="23"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="14" index="48" lastSolved="24" points="38" problemsAttempted="5" rank="49" solved="2" teamAlias="( O3O)p &lt;{ WU~ } (not aliasesd)" teamExternalId="1058" teamId="58" teamKey="1TEAM58" teamName="( O3O)p &lt;{ WU~ }" teamSiteId="1" totalAttempts="10">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="14" problemId="A--1329780513095325455" solutionTime="14"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="24" problemId="B-440311956191389648" solutionTime="24"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="4" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="-1"/>
+  </teamStanding>
+  <teamStanding firstSolved="9" index="49" lastSolved="29" points="38" problemsAttempted="3" rank="50" solved="2" teamAlias="Overflow (not aliasesd)" teamExternalId="1062" teamId="62" teamKey="1TEAM62" teamName="Overflow" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="9" problemId="A--1329780513095325455" solutionTime="9"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="29" problemId="B-440311956191389648" solutionTime="29"/>
+    <problemSummaryInfo attempts="4" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="13" index="50" lastSolved="28" points="41" problemsAttempted="4" rank="51" solved="2" teamAlias="tapioka (not aliasesd)" teamExternalId="1018" teamId="18" teamKey="1TEAM18" teamName="tapioka" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="13" problemId="A--1329780513095325455" solutionTime="13"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="28" problemId="B-440311956191389648" solutionTime="28"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="17" index="51" lastSolved="26" points="43" problemsAttempted="4" rank="52" solved="2" teamAlias="NCTU_Lokia3310 (not aliasesd)" teamExternalId="1023" teamId="23" teamKey="1TEAM23" teamName="NCTU_Lokia3310" teamSiteId="1" totalAttempts="7">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="26" problemId="A--1329780513095325455" solutionTime="26"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="17" problemId="B-440311956191389648" solutionTime="17"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="16" index="52" lastSolved="27" points="43" problemsAttempted="4" rank="53" solved="2" teamAlias="First Time (not aliasesd)" teamExternalId="1001" teamId="1" teamKey="1TEAM1" teamName="First Time" teamSiteId="1" totalAttempts="10">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="16" problemId="A--1329780513095325455" solutionTime="16"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="27" problemId="B-440311956191389648" solutionTime="27"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="13" index="53" lastSolved="32" points="45" problemsAttempted="4" rank="54" solved="2" teamAlias="UserName (not aliasesd)" teamExternalId="1037" teamId="37" teamKey="1TEAM37" teamName="UserName" teamSiteId="1" totalAttempts="21">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="13" problemId="A--1329780513095325455" solutionTime="13"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="32" problemId="B-440311956191389648" solutionTime="32"/>
+    <problemSummaryInfo attempts="14" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="18" index="54" lastSolved="30" points="48" problemsAttempted="5" rank="55" solved="2" teamAlias="explosion (not aliasesd)" teamExternalId="1085" teamId="85" teamKey="1TEAM85" teamName="explosion" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="18" problemId="A--1329780513095325455" solutionTime="18"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="30" problemId="B-440311956191389648" solutionTime="30"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="21" index="55" lastSolved="32" points="53" problemsAttempted="5" rank="56" solved="2" teamAlias="Love and Peace (not aliasesd)" teamExternalId="1092" teamId="92" teamKey="1TEAM92" teamName="Love and Peace" teamSiteId="1" totalAttempts="12">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="21" problemId="A--1329780513095325455" solutionTime="21"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="32" problemId="B-440311956191389648" solutionTime="32"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="3" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="20" index="56" lastSolved="34" points="54" problemsAttempted="5" rank="57" solved="2" teamAlias="0x5f3759df (not aliasesd)" teamExternalId="1030" teamId="30" teamKey="1TEAM30" teamName="0x5f3759df" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="20" problemId="A--1329780513095325455" solutionTime="20"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="34" problemId="B-440311956191389648" solutionTime="34"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="5" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="17" index="57" lastSolved="38" points="55" problemsAttempted="2" rank="58" solved="2" teamAlias="MCU_Serval (not aliasesd)" teamExternalId="1031" teamId="31" teamKey="1TEAM31" teamName="MCU_Serval" teamSiteId="1" totalAttempts="2">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="17" problemId="A--1329780513095325455" solutionTime="17"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="38" problemId="B-440311956191389648" solutionTime="38"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="21" index="58" lastSolved="36" points="57" problemsAttempted="4" rank="59" solved="2" teamAlias="SuperEdge (not aliasesd)" teamExternalId="1072" teamId="72" teamKey="1TEAM72" teamName="SuperEdge" teamSiteId="1" totalAttempts="10">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="21" problemId="A--1329780513095325455" solutionTime="21"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="36" problemId="B-440311956191389648" solutionTime="36"/>
+    <problemSummaryInfo attempts="4" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="4" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="17" index="59" lastSolved="29" points="66" problemsAttempted="5" rank="60" solved="2" teamAlias="Tourist (not aliasesd)" teamExternalId="1101" teamId="101" teamKey="1TEAM101" teamName="Tourist" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="2" index="1" isPending="false" isSolved="true" points="37" problemId="A--1329780513095325455" solutionTime="17"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="29" problemId="B-440311956191389648" solutionTime="29"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="12" index="60" lastSolved="34" points="66" problemsAttempted="4" rank="61" solved="2" teamAlias="NCTU_HollowKnight (not aliasesd)" teamExternalId="1019" teamId="19" teamKey="1TEAM19" teamName="NCTU_HollowKnight" teamSiteId="1" totalAttempts="7">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="12" problemId="A--1329780513095325455" solutionTime="12"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="54" problemId="B-440311956191389648" solutionTime="34"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="26" index="61" lastSolved="40" points="66" problemsAttempted="4" rank="62" solved="2" teamAlias="MarriageAfterBachelor (not aliasesd)" teamExternalId="1012" teamId="12" teamKey="1TEAM12" teamName="MarriageAfterBachelor" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="26" problemId="A--1329780513095325455" solutionTime="26"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="40" problemId="B-440311956191389648" solutionTime="40"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="23" index="62" lastSolved="24" points="67" problemsAttempted="4" rank="63" solved="2" teamAlias="TKU_KaTsu (not aliasesd)" teamExternalId="1112" teamId="112" teamKey="1TEAM112" teamName="TKU_KaTsu" teamSiteId="1" totalAttempts="11">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="23" problemId="A--1329780513095325455" solutionTime="23"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="44" problemId="B-440311956191389648" solutionTime="24"/>
+    <problemSummaryInfo attempts="7" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="17" index="63" lastSolved="53" points="70" problemsAttempted="3" rank="64" solved="2" teamAlias="NTUTACM (not aliasesd)" teamExternalId="1095" teamId="95" teamKey="1TEAM95" teamName="NTUTACM" teamSiteId="1" totalAttempts="4">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="17" problemId="A--1329780513095325455" solutionTime="17"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="53" problemId="B-440311956191389648" solutionTime="53"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="30" index="64" lastSolved="48" points="78" problemsAttempted="4" rank="65" solved="2" teamAlias="NUK_404NotFound (not aliasesd)" teamExternalId="1068" teamId="68" teamKey="1TEAM68" teamName="NUK_404NotFound" teamSiteId="1" totalAttempts="7">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="30" problemId="A--1329780513095325455" solutionTime="30"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="48" problemId="B-440311956191389648" solutionTime="48"/>
+    <problemSummaryInfo attempts="4" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="24" index="65" lastSolved="54" points="78" problemsAttempted="5" rank="66" solved="2" teamAlias="Balloons kingdom (not aliasesd)" teamExternalId="1055" teamId="55" teamKey="1TEAM55" teamName="Balloons kingdom" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="24" problemId="A--1329780513095325455" solutionTime="24"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="54" problemId="B-440311956191389648" solutionTime="54"/>
+    <problemSummaryInfo attempts="4" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="29" index="66" lastSolved="53" points="82" problemsAttempted="5" rank="67" solved="2" teamAlias="Black Lollipop (not aliasesd)" teamExternalId="1003" teamId="3" teamKey="1TEAM3" teamName="Black Lollipop" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="29" problemId="A--1329780513095325455" solutionTime="29"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="53" problemId="B-440311956191389648" solutionTime="53"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="26" index="67" lastSolved="57" points="83" problemsAttempted="3" rank="68" solved="2" teamAlias="DHA (not aliasesd)" teamExternalId="1122" teamId="122" teamKey="1TEAM122" teamName="DHA" teamSiteId="1" totalAttempts="3">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="26" problemId="A--1329780513095325455" solutionTime="26"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="57" problemId="B-440311956191389648" solutionTime="57"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="33" index="68" lastSolved="53" points="86" problemsAttempted="4" rank="69" solved="2" teamAlias="OnlyBang (not aliasesd)" teamExternalId="1065" teamId="65" teamKey="1TEAM65" teamName="OnlyBang" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="33" problemId="A--1329780513095325455" solutionTime="33"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="53" problemId="B-440311956191389648" solutionTime="53"/>
+    <problemSummaryInfo attempts="4" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="25" index="69" lastSolved="43" points="88" problemsAttempted="4" rank="70" solved="2" teamAlias="HappyMoMo (not aliasesd)" teamExternalId="1008" teamId="8" teamKey="1TEAM8" teamName="HappyMoMo" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="25" problemId="A--1329780513095325455" solutionTime="25"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="63" problemId="B-440311956191389648" solutionTime="43"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="22" index="70" lastSolved="47" points="89" problemsAttempted="3" rank="71" solved="2" teamAlias="TKU_P2win (not aliasesd)" teamExternalId="1117" teamId="117" teamKey="1TEAM117" teamName="TKU_P2win" teamSiteId="1" totalAttempts="4">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="22" problemId="A--1329780513095325455" solutionTime="22"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="67" problemId="B-440311956191389648" solutionTime="47"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="40" index="71" lastSolved="51" points="91" problemsAttempted="5" rank="72" solved="2" teamAlias="Clavier (not aliasesd)" teamExternalId="1103" teamId="103" teamKey="1TEAM103" teamName="Clavier" teamSiteId="1" totalAttempts="17">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="40" problemId="A--1329780513095325455" solutionTime="40"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="51" problemId="B-440311956191389648" solutionTime="51"/>
+    <problemSummaryInfo attempts="11" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="3" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="10" index="72" lastSolved="43" points="93" problemsAttempted="4" rank="73" solved="2" teamAlias="MCU_Orca (not aliasesd)" teamExternalId="1046" teamId="46" teamKey="1TEAM46" teamName="MCU_Orca" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="10" problemId="A--1329780513095325455" solutionTime="10"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="true" points="83" problemId="B-440311956191389648" solutionTime="43"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="39" index="73" lastSolved="54" points="93" problemsAttempted="4" rank="74" solved="2" teamAlias="NTPU Monster (not aliasesd)" teamExternalId="1070" teamId="70" teamKey="1TEAM70" teamName="NTPU Monster" teamSiteId="1" totalAttempts="17">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="39" problemId="A--1329780513095325455" solutionTime="39"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="54" problemId="B-440311956191389648" solutionTime="54"/>
+    <problemSummaryInfo attempts="4" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="11" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="11" index="74" lastSolved="82" points="93" problemsAttempted="4" rank="75" solved="2" teamAlias="TearDrops (not aliasesd)" teamExternalId="1039" teamId="39" teamKey="1TEAM39" teamName="TearDrops" teamSiteId="1" totalAttempts="7">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="11" problemId="A--1329780513095325455" solutionTime="11"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="82" problemId="B-440311956191389648" solutionTime="82"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="26" index="75" lastSolved="68" points="94" problemsAttempted="5" rank="76" solved="2" teamAlias="Confusing Science (not aliasesd)" teamExternalId="1016" teamId="16" teamKey="1TEAM16" teamName="Confusing Science" teamSiteId="1" totalAttempts="14">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="68" problemId="A--1329780513095325455" solutionTime="68"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="26" problemId="B-440311956191389648" solutionTime="26"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="5" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="35" index="76" lastSolved="69" points="104" problemsAttempted="3" rank="77" solved="2" teamAlias="MCU_Kuma (not aliasesd)" teamExternalId="1040" teamId="40" teamKey="1TEAM40" teamName="MCU_Kuma" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="35" problemId="A--1329780513095325455" solutionTime="35"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="69" problemId="B-440311956191389648" solutionTime="69"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="33" index="77" lastSolved="35" points="108" problemsAttempted="3" rank="78" solved="2" teamAlias="Reversal of destiny (not aliasesd)" teamExternalId="1064" teamId="64" teamKey="1TEAM64" teamName="Reversal of destiny" teamSiteId="1" totalAttempts="5">
+    <problemSummaryInfo attempts="3" index="1" isPending="false" isSolved="true" points="75" problemId="A--1329780513095325455" solutionTime="35"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="33" problemId="B-440311956191389648" solutionTime="33"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="49" index="78" lastSolved="60" points="109" problemsAttempted="4" rank="79" solved="2" teamAlias="JMTH (not aliasesd)" teamExternalId="1090" teamId="90" teamKey="1TEAM90" teamName="JMTH" teamSiteId="1" totalAttempts="12">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="49" problemId="A--1329780513095325455" solutionTime="49"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="60" problemId="B-440311956191389648" solutionTime="60"/>
+    <problemSummaryInfo attempts="7" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="26" index="79" lastSolved="84" points="110" problemsAttempted="5" rank="80" solved="2" teamAlias="CJCU_Team1 (not aliasesd)" teamExternalId="1067" teamId="67" teamKey="1TEAM67" teamName="CJCU_Team1" teamSiteId="1" totalAttempts="12">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="26" problemId="A--1329780513095325455" solutionTime="26"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="84" problemId="B-440311956191389648" solutionTime="84"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="4" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="26" index="80" lastSolved="69" points="115" problemsAttempted="5" rank="81" solved="2" teamAlias="Do u have freestyle? (not aliasesd)" teamExternalId="1027" teamId="27" teamKey="1TEAM27" teamName="Do u have freestyle?" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="26" problemId="A--1329780513095325455" solutionTime="26"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="89" problemId="B-440311956191389648" solutionTime="69"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="59" index="81" lastSolved="66" points="125" problemsAttempted="5" rank="82" solved="2" teamAlias="OnlyOne (not aliasesd)" teamExternalId="1028" teamId="28" teamKey="1TEAM28" teamName="OnlyOne" teamSiteId="1" totalAttempts="10">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="59" problemId="A--1329780513095325455" solutionTime="59"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="66" problemId="B-440311956191389648" solutionTime="66"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="37" index="82" lastSolved="52" points="129" problemsAttempted="4" rank="83" solved="2" teamAlias="NPUST2 (not aliasesd)" teamExternalId="1004" teamId="4" teamKey="1TEAM4" teamName="NPUST2" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="3" index="1" isPending="false" isSolved="true" points="77" problemId="A--1329780513095325455" solutionTime="37"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="52" problemId="B-440311956191389648" solutionTime="52"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="10" index="83" lastSolved="42" points="132" problemsAttempted="4" rank="84" solved="2" teamAlias="MCU_Narwhal (not aliasesd)" teamExternalId="1091" teamId="91" teamKey="1TEAM91" teamName="MCU_Narwhal" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="3" index="1" isPending="false" isSolved="true" points="50" problemId="A--1329780513095325455" solutionTime="10"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="true" points="82" problemId="B-440311956191389648" solutionTime="42"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="39" index="84" lastSolved="62" points="141" problemsAttempted="4" rank="85" solved="2" teamAlias="hakunamatata (not aliasesd)" teamExternalId="1098" teamId="98" teamKey="1TEAM98" teamName="hakunamatata" teamSiteId="1" totalAttempts="10">
+    <problemSummaryInfo attempts="2" index="1" isPending="false" isSolved="true" points="59" problemId="A--1329780513095325455" solutionTime="39"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="82" problemId="B-440311956191389648" solutionTime="62"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="-1"/>
+  </teamStanding>
+  <teamStanding firstSolved="37" index="85" lastSolved="89" points="146" problemsAttempted="4" rank="86" solved="2" teamAlias="Worldisours (not aliasesd)" teamExternalId="1100" teamId="100" teamKey="1TEAM100" teamName="Worldisours" teamSiteId="1" totalAttempts="6">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="37" problemId="A--1329780513095325455" solutionTime="37"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="109" problemId="B-440311956191389648" solutionTime="89"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="16" index="86" lastSolved="71" points="147" problemsAttempted="4" rank="87" solved="2" teamAlias="ABC_dog_bit_pig (not aliasesd)" teamExternalId="1115" teamId="115" teamKey="1TEAM115" teamName="ABC_dog_bit_pig" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="16" problemId="A--1329780513095325455" solutionTime="16"/>
+    <problemSummaryInfo attempts="4" index="2" isPending="false" isSolved="true" points="131" problemId="B-440311956191389648" solutionTime="71"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="52" index="87" lastSolved="105" points="157" problemsAttempted="2" rank="88" solved="2" teamAlias="MCU_Iguana (not aliasesd)" teamExternalId="1009" teamId="9" teamKey="1TEAM9" teamName="MCU_Iguana" teamSiteId="1" totalAttempts="2">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="52" problemId="A--1329780513095325455" solutionTime="52"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="105" problemId="B-440311956191389648" solutionTime="105"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="38" index="88" lastSolved="40" points="158" problemsAttempted="4" rank="89" solved="2" teamAlias="NPUST1 (not aliasesd)" teamExternalId="1032" teamId="32" teamKey="1TEAM32" teamName="NPUST1" teamSiteId="1" totalAttempts="9">
+    <problemSummaryInfo attempts="2" index="1" isPending="false" isSolved="true" points="60" problemId="A--1329780513095325455" solutionTime="40"/>
+    <problemSummaryInfo attempts="4" index="2" isPending="false" isSolved="true" points="98" problemId="B-440311956191389648" solutionTime="38"/>
+    <problemSummaryInfo attempts="2" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="42" index="89" lastSolved="79" points="161" problemsAttempted="3" rank="90" solved="2" teamAlias="O____________O (not aliasesd)" teamExternalId="1102" teamId="102" teamKey="1TEAM102" teamName="O____________O" teamSiteId="1" totalAttempts="5">
+    <problemSummaryInfo attempts="3" index="1" isPending="false" isSolved="true" points="119" problemId="A--1329780513095325455" solutionTime="79"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="42" problemId="B-440311956191389648" solutionTime="42"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="59" index="90" lastSolved="104" points="163" problemsAttempted="3" rank="91" solved="2" teamAlias="NPTU_MIS1 (not aliasesd)" teamExternalId="1054" teamId="54" teamKey="1TEAM54" teamName="NPTU_MIS1" teamSiteId="1" totalAttempts="3">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="59" problemId="A--1329780513095325455" solutionTime="59"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="104" problemId="B-440311956191389648" solutionTime="104"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="37" index="91" lastSolved="71" points="168" problemsAttempted="4" rank="92" solved="2" teamAlias="NTCU Telecom1 (not aliasesd)" teamExternalId="1093" teamId="93" teamKey="1TEAM93" teamName="NTCU Telecom1" teamSiteId="1" totalAttempts="8">
+    <problemSummaryInfo attempts="3" index="1" isPending="false" isSolved="true" points="77" problemId="A--1329780513095325455" solutionTime="37"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="91" problemId="B-440311956191389648" solutionTime="71"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="55" index="92" lastSolved="121" points="176" problemsAttempted="4" rank="93" solved="2" teamAlias="Chihlee No 1. (not aliasesd)" teamExternalId="1010" teamId="10" teamKey="1TEAM10" teamName="Chihlee No 1." teamSiteId="1" totalAttempts="7">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="121" problemId="A--1329780513095325455" solutionTime="121"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="55" problemId="B-440311956191389648" solutionTime="55"/>
+    <problemSummaryInfo attempts="3" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="2" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="65" index="93" lastSolved="69" points="194" problemsAttempted="5" rank="94" solved="2" teamAlias="Roommate YiMiWu (not aliasesd)" teamExternalId="1096" teamId="96" teamKey="1TEAM96" teamName="Roommate YiMiWu" teamSiteId="1" totalAttempts="24">
+    <problemSummaryInfo attempts="2" index="1" isPending="false" isSolved="true" points="85" problemId="A--1329780513095325455" solutionTime="65"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="true" points="109" problemId="B-440311956191389648" solutionTime="69"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="8" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="8" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="60" index="94" lastSolved="118" points="218" problemsAttempted="3" rank="95" solved="2" teamAlias="Tempopo (not aliasesd)" teamExternalId="1121" teamId="121" teamKey="1TEAM121" teamName="Tempopo" teamSiteId="1" totalAttempts="10">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="60" problemId="A--1329780513095325455" solutionTime="60"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="true" points="158" problemId="B-440311956191389648" solutionTime="118"/>
+    <problemSummaryInfo attempts="6" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="79" index="95" lastSolved="98" points="237" problemsAttempted="4" rank="96" solved="2" teamAlias="NDHU_team1 (not aliasesd)" teamExternalId="1060" teamId="60" teamKey="1TEAM60" teamName="NDHU_team1" teamSiteId="1" totalAttempts="10">
+    <problemSummaryInfo attempts="2" index="1" isPending="false" isSolved="true" points="99" problemId="A--1329780513095325455" solutionTime="79"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="true" points="138" problemId="B-440311956191389648" solutionTime="98"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="4" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="70" index="96" lastSolved="124" points="314" problemsAttempted="3" rank="97" solved="2" teamAlias="MCU_Wolf (not aliasesd)" teamExternalId="1088" teamId="88" teamKey="1TEAM88" teamName="MCU_Wolf" teamSiteId="1" totalAttempts="11">
+    <problemSummaryInfo attempts="7" index="1" isPending="false" isSolved="true" points="190" problemId="A--1329780513095325455" solutionTime="70"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="124" problemId="B-440311956191389648" solutionTime="124"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="54" index="97" lastSolved="142" points="356" problemsAttempted="5" rank="98" solved="2" teamAlias="418 I'm a teapot (not aliasesd)" teamExternalId="1080" teamId="80" teamKey="1TEAM80" teamName="418 I'm a teapot" teamSiteId="1" totalAttempts="16">
+    <problemSummaryInfo attempts="8" index="1" isPending="false" isSolved="true" points="282" problemId="A--1329780513095325455" solutionTime="142"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="74" problemId="B-440311956191389648" solutionTime="54"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="2" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="38" index="98" lastSolved="151" points="449" problemsAttempted="4" rank="99" solved="2" teamAlias="MCU_Fantasy (not aliasesd)" teamExternalId="1026" teamId="26" teamKey="1TEAM26" teamName="MCU_Fantasy" teamSiteId="1" totalAttempts="19">
+    <problemSummaryInfo attempts="13" index="1" isPending="false" isSolved="true" points="391" problemId="A--1329780513095325455" solutionTime="151"/>
+    <problemSummaryInfo attempts="2" index="2" isPending="false" isSolved="true" points="58" problemId="B-440311956191389648" solutionTime="38"/>
+    <problemSummaryInfo attempts="1" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="3" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="100" index="99" lastSolved="100" points="100" problemsAttempted="3" rank="100" solved="1" teamAlias="iLoveTaiWenYue &lt;3 (not aliasesd)" teamExternalId="1052" teamId="52" teamKey="1TEAM52" teamName="iLoveTaiWenYue &lt;3" teamSiteId="1" totalAttempts="7">
+    <problemSummaryInfo attempts="5" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="-1"/>
+    <problemSummaryInfo attempts="1" index="2" isPending="false" isSolved="true" points="100" problemId="B-440311956191389648" solutionTime="100"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="1" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="143" index="100" lastSolved="143" points="143" problemsAttempted="1" rank="101" solved="1" teamAlias="JaPeNy (not aliasesd)" teamExternalId="1021" teamId="21" teamKey="1TEAM21" teamName="JaPeNy" teamSiteId="1" totalAttempts="1">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="true" points="143" problemId="A--1329780513095325455" solutionTime="143"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="101" lastSolved="0" points="0" problemsAttempted="0" rank="102" solved="0" teamAlias="give me one (not aliasesd)" teamExternalId="1099" teamId="99" teamKey="1TEAM99" teamName="give me one" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="102" lastSolved="0" points="0" problemsAttempted="0" rank="102" solved="0" teamAlias="iNEMU@NCUT (not aliasesd)" teamExternalId="1061" teamId="61" teamKey="1TEAM61" teamName="iNEMU@NCUT" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="103" lastSolved="0" points="0" problemsAttempted="0" rank="102" solved="0" teamAlias="King of coding (not aliasesd)" teamExternalId="1074" teamId="74" teamKey="1TEAM74" teamName="King of coding" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="104" lastSolved="0" points="0" problemsAttempted="0" rank="102" solved="0" teamAlias="NSYSU-Cat (not aliasesd)" teamExternalId="1011" teamId="11" teamKey="1TEAM11" teamName="NSYSU-Cat" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="105" lastSolved="0" points="0" problemsAttempted="1" rank="102" solved="0" teamAlias="supercalifragilisticexpialidocious (not aliasesd)" teamExternalId="1123" teamId="123" teamKey="1TEAM123" teamName="supercalifragilisticexpialidocious" teamSiteId="1" totalAttempts="11">
+    <problemSummaryInfo attempts="11" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="106" lastSolved="0" points="0" problemsAttempted="0" rank="102" solved="0" teamAlias="TIE (not aliasesd)" teamExternalId="1066" teamId="66" teamKey="1TEAM66" teamName="TIE" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="107" lastSolved="0" points="0" problemsAttempted="2" rank="102" solved="0" teamAlias="TKUIM (not aliasesd)" teamExternalId="1051" teamId="51" teamKey="1TEAM51" teamName="TKUIM" teamSiteId="1" totalAttempts="4">
+    <problemSummaryInfo attempts="1" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="-1"/>
+    <problemSummaryInfo attempts="3" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="-1"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="108" lastSolved="0" points="0" problemsAttempted="0" rank="102" solved="0" teamAlias="UPC1 (not aliasesd)" teamExternalId="1109" teamId="109" teamKey="1TEAM109" teamName="UPC1" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="109" lastSolved="0" points="0" problemsAttempted="0" rank="102" solved="0" teamAlias="UPC2 (not aliasesd)" teamExternalId="1110" teamId="110" teamKey="1TEAM110" teamName="UPC2" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="110" lastSolved="0" points="0" problemsAttempted="0" rank="102" solved="0" teamAlias="UPC3 (not aliasesd)" teamExternalId="1118" teamId="118" teamKey="1TEAM118" teamName="UPC3" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="111" lastSolved="0" points="0" problemsAttempted="0" rank="102" solved="0" teamAlias="UPC4 (not aliasesd)" teamExternalId="1119" teamId="119" teamKey="1TEAM119" teamName="UPC4" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="112" lastSolved="0" points="0" problemsAttempted="0" rank="102" solved="0" teamAlias="UPC5 (not aliasesd)" teamExternalId="1120" teamId="120" teamKey="1TEAM120" teamName="UPC5" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="113" lastSolved="0" points="0" problemsAttempted="0" rank="102" solved="0" teamAlias="UPC6 (not aliasesd)" teamExternalId="1124" teamId="124" teamKey="1TEAM124" teamName="UPC6" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="114" lastSolved="0" points="0" problemsAttempted="0" rank="102" solved="0" teamAlias="UPC7 (not aliasesd)" teamExternalId="1125" teamId="125" teamKey="1TEAM125" teamName="UPC7" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="115" lastSolved="0" points="0" problemsAttempted="0" rank="102" solved="0" teamAlias="UPC8 (not aliasesd)" teamExternalId="1126" teamId="126" teamKey="1TEAM126" teamName="UPC8" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="116" lastSolved="0" points="0" problemsAttempted="0" rank="102" solved="0" teamAlias="UPC9 (not aliasesd)" teamExternalId="1127" teamId="127" teamKey="1TEAM127" teamName="UPC9" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="117" lastSolved="0" points="0" problemsAttempted="0" rank="102" solved="0" teamAlias="UPC10 (not aliasesd)" teamExternalId="1128" teamId="128" teamKey="1TEAM128" teamName="UPC10" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="118" lastSolved="0" points="0" problemsAttempted="0" rank="102" solved="0" teamAlias="UPC11 (not aliasesd)" teamExternalId="1129" teamId="129" teamKey="1TEAM129" teamName="UPC11" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+  <teamStanding firstSolved="-1" index="119" lastSolved="0" points="0" problemsAttempted="0" rank="102" solved="0" teamAlias="UPC12 (not aliasesd)" teamExternalId="1130" teamId="130" teamKey="1TEAM130" teamName="UPC12" teamSiteId="1" totalAttempts="0">
+    <problemSummaryInfo attempts="0" index="1" isPending="false" isSolved="false" points="0" problemId="A--1329780513095325455" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="2" isPending="false" isSolved="false" points="0" problemId="B-440311956191389648" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="3" isPending="false" isSolved="false" points="0" problemId="C-3224586316321181564" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="4" isPending="false" isSolved="false" points="0" problemId="D--7351661251623430973" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="5" isPending="false" isSolved="false" points="0" problemId="E-4418907247923624395" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="6" isPending="false" isSolved="false" points="0" problemId="F-2128573631507228123" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="7" isPending="false" isSolved="false" points="0" problemId="G--8185558675012754331" solutionTime="0"/>
+    <problemSummaryInfo attempts="0" index="8" isPending="false" isSolved="false" points="0" problemId="H--1330980437275392036" solutionTime="0"/>
+  </teamStanding>
+</contestStandings>
