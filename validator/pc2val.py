@@ -47,6 +47,7 @@ def invalidToken(ans,out):
     if args.mode == 'abs':
         return fabs(a-o) > args.error
     elif args.mode == 'rel':
+        if a == o: return False
         return a==0 or fabs((a-o)/a) > args.error
     elif args.mode == 'abs_rel':
         if fabs(a-o) <= args.error: return False
