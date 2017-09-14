@@ -94,9 +94,11 @@ def isAC():
     return True
 
 def isOCS():
+    # pc2box should exit with 0 or 1
     if os.path.exists('EXITCODE.TXT'):
         with open('EXITCODE.TXT','rt') as FILE:
             return FILE.readline().rstrip() != '0x1'
+    # Mode is external but there is no external validator
     return args.mode != 'ext' and args.external
 
 def isTLE():
