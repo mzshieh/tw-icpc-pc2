@@ -107,11 +107,8 @@ with open(VERDICT,'wt') as verdict:
             print('Sandbox internal error',file=sys.stderr)
         else:
             path_out = box_path + '/' + OUTPUT
-            try:
-                with open(RESULT,'at') as result:
-                    print('output size:{}'.format(os.path.getsize(path_out)),file=result)
-            except:
-                raise
+            with open(RESULT,'at') as result:
+                print('output-size:{}'.format(os.path.getsize(path_out)),file=result)
             ### Dump the output to stdout
             run(['/usr/bin/env','head','--bytes={}'.format(size_limit*1024),box_path+'/'+OUTPUT])
             ### Dump the error to stderr
