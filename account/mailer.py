@@ -8,7 +8,7 @@ def rand_alpha(n):
     return ''.join([chr(ord('A')+ri(0,25)) for _ in range(n)])
 
 ### Setup argument parser
-parser = argparse.ArgumentParser(description="Convert ICPC CSV into PC^2 TSV")
+parser = argparse.ArgumentParser(description="Mailing passwords to coaches")
 parser.add_argument('-a','--admin',default=1,type=int,
                     help='#Administrators (default: %(default)g)')
 parser.add_argument('-t','--team',default=0,type=int,
