@@ -1,97 +1,81 @@
-site	account	displayname	password	group	permdisplay	permlogin	externalid	alias	permpassword	longschoolname	shortschoolname	countrycode
-1	administrator1	administrator1	CJLPGDZM		false	true	1001		true			TWN
-1	judge1	judge1	YVTRRYJQ		false	true	1001		true			TWN
-1	judge2	judge2	HPBDBJDM		false	true	1002		true			TWN
-1	judge3	judge3	JCRIMZTA		false	true	1003		true			TWN
-1	judge4	judge4	KMJTBJQP		false	true	1004		true			TWN
-1	judge5	judge5	ULLTJSMW		false	true	1005		true			TWN
-1	judge6	judge6	BQSINWCM		false	true	1006		true			TWN
-1	judge7	judge7	NUYZAYFZ		false	true	1007		true			TWN
-1	judge8	judge8	XYAIHUGF		false	true	1008		true			TWN
-1	judge9	judge9	OEWMCWGY		false	true	1009		true			TWN
-1	judge10	judge10	WTUWCHEM		false	true	1010		true			TWN
-1	judge11	judge11	NUSPAJFX		false	true	1011		true			TWN
-1	judge12	judge12	PZLKJDYD		false	true	1012		true			TWN
-1	scoreboard1	scoreboard1	WPASVKDC		false	true	1001		true			TWN
-1	feeder1	feeder1	NSOSMPQU		false	true	1001		true			TWN
-1	team1	First Time	VXTXQKEU		true	true	1001		false			TWN
-1	team2	NSYSU-Ant	UDJKMRCB		true	true	1002		false			TWN
-1	team3	NPUST2	RMKTPFFP		true	true	1003		false			TWN
-1	team4	CCU_CGSH	VCEQTMOO		true	true	1004		false			TWN
-1	team5	MCU_Smilodon	RBYRWGLL		true	true	1005		false			TWN
-1	team6	HappyMoMo	YOVKQGSL		true	true	1006		false			TWN
-1	team7	MCU_Iguana	OPRKXZOM		true	true	1007		false			TWN
-1	team8	Chihlee No 1.	XJSEWROH		true	true	1008		false			TWN
-1	team9	NSYSU-Cat	YEUVHXPB		true	true	1009		false			TWN
-1	team10	MarriageAfterBachelor	RTGTPEEH		true	true	1010		false			TWN
-1	team11	NTHU_freshman	OKEFQMXI		true	true	1011		false			TWN
-1	team12	Here comes NTNU old tuna	UQQZANBS		true	true	1012		false			TWN
-1	team13	Confusing Science	OWXHEIVV		true	true	1013		false			TWN
-1	team14	tapioka	XONIEJYJ		true	true	1014		false			TWN
-1	team15	NCTU_HollowKnight	ZWRENCSL		true	true	1015		false			TWN
-1	team16	CCU_ToInfinityAndBeyond	WYFBKLNA		true	true	1016		false			TWN
-1	team17	NCTU_Lokia3310	SGDFKGHM		true	true	1017		false			TWN
-1	team18	TKU_P2win	YRQLOKIP		true	true	1018		false			TWN
-1	team19	NCTU_Aurora	LZBKNHAL		true	true	1019		false			TWN
-1	team20	MCU_Fantasy	KYLPGVDV		true	true	1020		false			TWN
-1	team21	Do u have freestyle?	PPECBTXK		true	true	1021		false			TWN
-1	team22	0x5f3759df	NPFSYFND		true	true	1022		false			TWN
-1	team23	MCU_Serval	CBSROCTI		true	true	1023		false			TWN
-1	team24	NPUST1	OBAMHFBZ		true	true	1024		false			TWN
-1	team25	CCU_ChiYuMi	PPUFBIER		true	true	1025		false			TWN
-1	team26	ABC_dog_bit_pig	XOADHQUQ		true	true	1026		false			TWN
-1	team27	UserName	NCGESPXY		true	true	1027		false			TWN
-1	team28	Jinkela	XDXWHMFV		true	true	1028		false			TWN
-1	team29	TearDrops	OZARJAJY		true	true	1029		false			TWN
-1	team30	MCU_Kuma	PJTANOSZ		true	true	1030		false			TWN
-1	team31	NCTU_Leonardo	WWLFSCJO		true	true	1031		false			TWN
-1	team32	NTHU_1388	DOHQZMWO		true	true	1032		false			TWN
-1	team33	NCTU_Ragnarok	YSEASGWS		true	true	1033		false			TWN
-1	team34	NCTU_Asgard	MDJWQISW		true	true	1034		false			TWN
-1	team35	MCU_Orca	CCJALDUS		true	true	1035		false			TWN
-1	team36	neutrino	BFCEIEWM		true	true	1036		false			TWN
-1	team37	WDYLTXWS	XCKZWSTB		true	true	1037		false			TWN
-1	team38	NCTU_Foudre	JGFFFJYY		true	true	1038		false			TWN
-1	team39	TKUIM	ZQPYWRAO		true	true	1039		false			TWN
-1	team40	NCTU_Valkyrie	ZXBMHSOJ		true	true	1040		false			TWN
-1	team41	NPTU_MIS1	YRCEMXYJ		true	true	1041		false			TWN
-1	team42	Undeclared	LLRNIMKO		true	true	1042		false			TWN
-1	team43	YKH	FHVDMFJS		true	true	1043		false			TWN
-1	team44	( O3O)p <{ WU~ }	LYHCWTRC		true	true	1044		false			TWN
-1	team45	NSYSU-Bat	WCHMQUJL		true	true	1045		false			TWN
-1	team46	NDHU_team1	GZYHCKFJ		true	true	1046		false			TWN
-1	team47	Overflow	LXIFZLYS		true	true	1047		false			TWN
-1	team48	NCTU_Radar	FQOHIUKR		true	true	1048		false			TWN
-1	team49	Reversal of destiny	LOHWVGBN		true	true	1049		false			TWN
-1	team50	CJCU_Team1	UPTNEKNJ		true	true	1050		false			TWN
-1	team51	NUK_404NotFound	ZNOHTNTQ		true	true	1051		false			TWN
-1	team52	SuperEdge	RUSITEHR		true	true	1052		false			TWN
-1	team53	NCTU_Forseti	UZXATEMK		true	true	1053		false			TWN
-1	team54	NSYSU-Dog	TUPIMYDQ		true	true	1054		false			TWN
-1	team55	NCTU_Yggdrasill	EUZOAOIR		true	true	1055		false			TWN
-1	team56	TKU_KaTsu	MUHYOFUU		true	true	1056		false			TWN
-1	team57	Micropin	USVLBKTD		true	true	1057		false			TWN
-1	team58	NCTU_Fenrir	LPWGJRVQ		true	true	1058		false			TWN
-1	team59	NTHU_FlyingSheep	LDNSVXFF		true	true	1059		false			TWN
-1	team60	NCTU_Aether	HNIAKHRB		true	true	1060		false			TWN
-1	team61	NSYSU-Eagle	GABZWKEI		true	true	1061		false			TWN
-1	team62	NTHU_freshman02	GVRMWIWK		true	true	1062		false			TWN
-1	team63	NCTU_Tmprry	QUBDIFEA		true	true	1063		false			TWN
-1	team64	MCU_Wolf	FWBSQJGT		true	true	1064		false			TWN
-1	team65	CCU_PLZAC	LVVXQEWU		true	true	1065		false			TWN
-1	team66	JMTH	NRYDCZBT		true	true	1066		false			TWN
-1	team67	MCU_Narwhal	MDBLHYMY		true	true	1067		false			TWN
-1	team68	Love and Peace	SJZEMWXH		true	true	1068		false			TWN
-1	team69	NTCU Telecom1	FJLRMKKV		true	true	1069		false			TWN
-1	team70	Worldisours	ACSLNKAB		true	true	1070		false			TWN
-1	team71	Tourist	MLDRFKLF		true	true	1071		false			TWN
-1	team72	team72	CPBUHZVB		false	true	1072		false			TWN
-1	team73	team73	CNURXFKF		false	true	1073		false			TWN
-1	team74	team74	FNBSSDHE		false	true	1074		false			TWN
-1	team75	team75	EFOJBVWV		false	true	1075		false			TWN
-1	team76	team76	QYPPLGPX		false	true	1076		false			TWN
-1	team77	team77	PONYFSXU		false	true	1077		false			TWN
-1	team78	team78	VPEHTOEG		false	true	1078		false			TWN
-1	team79	team79	EQQHXZUO		false	true	1079		false			TWN
-1	team80	team80	NJJOYOHO		false	true	1080		false			TWN
-1	team81	team81	DYPFGHZI		false	true	1081		false			TWN
+Site	Team		Institution	Coach	Created	Status	Ineligibilityprediction	Paid	Extended <br/>status
+Asia Hua-Lien On Site Regional Contest	CUHK 3		The Chinese University of Hong Kong	siuon@cse.cuhk.edu.hk	Oct 6, 2017	Accepted	Predicted Eligible	TRUE	team 01
+Asia Hua-Lien On Site Regional Contest	ACInOneGo		Bina Nusantara University	felix.jingga@gmail.com	Oct 19, 2017	Accepted	Predicted Eligible	TRUE	team 02
+Asia Hua-Lien On Site Regional Contest	Return_ZUKKY		University of Aizu	yutaka@u-aizu.ac.jp	Sep 30, 2017	Accepted	Predicted Eligible	TRUE	team 03
+Asia Hua-Lien On Site Regional Contest	Military Reserve Force		Seoul National University	yeom@snu.ac.kr	Oct 16, 2017	Accepted	Verified Eligible	TRUE	team 04
+Asia Hua-Lien On Site Regional Contest	PECaveros		National Taiwan University	pjcheng@csie.ntu.edu.tw	Sep 8, 2017	Accepted	Predicted Eligible	TRUE	team 05
+Asia Hua-Lien On Site Regional Contest	NCTU_Ragnarok		National Chiao Tung University	kcw@cs.nctu.edu.tw	Oct 23, 2017	Accepted	Predicted Eligible	TRUE	team 06
+Asia Hua-Lien On Site Regional Contest	NP_Not_Polynomial		Yonsei University	hyung-chan.an@yonsei.ac.kr	Oct 16, 2017	Accepted	Predicted Eligible	TRUE	team 07
+Asia Hua-Lien On Site Regional Contest	Taiwan No.1		The Chinese University of Hong Kong	siuon@cse.cuhk.edu.hk	Oct 6, 2017	Accepted	Predicted Eligible	TRUE	team 08
+Asia Hua-Lien On Site Regional Contest	SSR		Bina Nusantara University	felix.jingga@gmail.com	Oct 19, 2017	Accepted	Predicted Eligible	TRUE	team 09
+Asia Hua-Lien On Site Regional Contest	Yoshino_House		University of Aizu	yutaka@u-aizu.ac.jp	Oct 2, 2017	Accepted	Predicted Eligible	TRUE	team 10
+Asia Hua-Lien On Site Regional Contest	Arondight		Shanghai Jiao Tong University	yyu@cs.sjtu.edu.cn	Sep 20, 2017	Accepted	Predicted Eligible	TRUE	team 11
+Asia Hua-Lien On Site Regional Contest	NTHU_FlyingSheep		National Tsing Hua University	cherung@cs.nthu.edu.tw	Oct 26, 2017	Accepted	Predicted Eligible	TRUE	team 12
+Asia Hua-Lien On Site Regional Contest	MCU_Narwhal		Ming Chuan University	yklee@mail.mcu.edu.tw	Oct 26, 2017	Accepted	Predicted Eligible	TRUE	team 13
+Asia Hua-Lien On Site Regional Contest	Chu_rimi		Chung Hua University	cwyu@chu.edu.tw	Oct 27, 2017	Accepted	Predicted Eligible	TRUE	team 14
+Asia Hua-Lien On Site Regional Contest	NSYSU-Bat		National Sun-Yat-Sen University	cbyang@cse.nsysu.edu.tw	Oct 24, 2017	Accepted	Predicted Eligible	TRUE	team 15
+Asia Hua-Lien On Site Regional Contest	222		National Cheng Kung University	tsaimh@csie.ncku.edu.tw	Oct 25, 2017	Accepted	Predicted Eligible	TRUE	team 16
+Asia Hua-Lien On Site Regional Contest	Cuckoo		Peking University	gluo@pku.edu.cn	Sep 13, 2017	Accepted	Predicted Eligible	TRUE	team 17
+Asia Hua-Lien On Site Regional Contest	NCTU_Aurora		National Chiao Tung University	kcw@cs.nctu.edu.tw	Oct 23, 2017	Accepted	Predicted Eligible	TRUE	team 18
+Asia Hua-Lien On Site Regional Contest	CCU_friendsheep		National Chung Cheng University	bangye@cs.ccu.edu.tw	Oct 25, 2017	Accepted	Predicted Eligible	TRUE	team 19
+Asia Hua-Lien On Site Regional Contest	\OAO/		National Taiwan University	pjcheng@csie.ntu.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 20
+Asia Hua-Lien On Site Regional Contest	CCU_ChiYuMi		National Chung Cheng University	bangye@cs.ccu.edu.tw	Oct 23, 2017	Accepted	Predicted Eligible	TRUE	team 21
+Asia Hua-Lien On Site Regional Contest	lite		National Taiwan University	pjcheng@csie.ntu.edu.tw	Oct 3, 2017	Accepted	Predicted Eligible	TRUE	team 22
+Asia Hua-Lien On Site Regional Contest	Jinkela		National Tsing Hua University	cherung@cs.nthu.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 23
+Asia Hua-Lien On Site Regional Contest	explosion		National Cheng Kung University	tsaimh@csie.ncku.edu.tw	Oct 25, 2017	Accepted	Predicted Eligible	TRUE	team 24
+Asia Hua-Lien On Site Regional Contest	110NTNU		National Taiwan Normal University	tcchiang@ieee.org	Oct 25, 2017	Accepted	Predicted Eligible	TRUE	team 25
+Asia Hua-Lien On Site Regional Contest	iLoveTaiWenYue <3		Tatung University	twyu@ttu.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 26
+Asia Hua-Lien On Site Regional Contest	Tourist		Providence University	ywchan@gm.pu.edu.tw	Oct 24, 2017	Accepted	Predicted Eligible	TRUE	team 27
+Asia Hua-Lien On Site Regional Contest	YKH		National Chiayi University	chutilin@mail.ncyu.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 28
+Asia Hua-Lien On Site Regional Contest	tapioka		National Taiwan Ocean University	wwyhsu@ntou.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 29
+Asia Hua-Lien On Site Regional Contest	NCTU_Tmprry		National Chiao Tung University	kcw@cs.nctu.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 30
+Asia Hua-Lien On Site Regional Contest	DP's March		National Dong Hwa University	mxchen@gms.ndhu.edu.tw	Oct 27, 2017	Accepted	Predicted Eligible	TRUE	team 31
+Asia Hua-Lien On Site Regional Contest	JMTH		Fu Jen Catholic University	shchang@csie.fju.edu.tw	Oct 26, 2017	Accepted	Predicted Eligible	TRUE	team 32
+Asia Hua-Lien On Site Regional Contest	DanGan		National Taiwan University	pjcheng@csie.ntu.edu.tw	Oct 3, 2017	Accepted	Predicted Eligible	TRUE	team 33
+Asia Hua-Lien On Site Regional Contest	NCU_GoodLuck		National Central University	khsu123@gmail.com	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 34
+Asia Hua-Lien On Site Regional Contest	NPUST2		National Penghu Institute of Technology	dffan@npu.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 35
+Asia Hua-Lien On Site Regional Contest	Observable Sharing		National Cheng-Chi University	chenk@cs.nccu.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 36
+Asia Hua-Lien On Site Regional Contest	PUCSIM		Providence University	ywchan@gm.pu.edu.tw	Oct 26, 2017	Accepted	Predicted Eligible	TRUE	team 37
+Asia Hua-Lien On Site Regional Contest	OnlyOne		National Formosa University	jhjiang@nfu.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 38
+Asia Hua-Lien On Site Regional Contest	neutrino		National Tsing Hua University	cherung@cs.nthu.edu.tw	Oct 24, 2017	Accepted	Predicted Eligible	TRUE	team 39
+Asia Hua-Lien On Site Regional Contest	Undeclared		National Taiwan Normal University	tcchiang@ieee.org	Oct 25, 2017	Accepted	Predicted Eligible	TRUE	team 40
+Asia Hua-Lien On Site Regional Contest	NTPU Monster		National Taipei University	jcchang@mail.ntpu.edu.tw	Oct 26, 2017	Accepted	Predicted Eligible	TRUE	team 41
+Asia Hua-Lien On Site Regional Contest	Worldisours		Providence University	lhhsu@pu.edu.tw	Oct 26, 2017	Accepted	Predicted Eligible	TRUE	team 42
+Asia Hua-Lien On Site Regional Contest	NCU_X_X		National Central University	hocwcd@gmail.com	Oct 25, 2017	Accepted	Predicted Eligible	TRUE	team 43
+Asia Hua-Lien On Site Regional Contest	O____________O		Yuan Ze University	tinin@saturn.yzu.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 44
+Asia Hua-Lien On Site Regional Contest	ABC_dog_bit_pig		Chung Hua University	cwyu@chu.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 45
+Asia Hua-Lien On Site Regional Contest	NSYSU-Eagle		National Sun-Yat-Sen University	cbyang@cse.nsysu.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 46
+Asia Hua-Lien On Site Regional Contest	NTUTACM		National Taipei University of Technology	cmliu@csie.ntut.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 47
+Asia Hua-Lien On Site Regional Contest	TheKeyBoardmeow		National Taiwan University	pjcheng@csie.ntu.edu.tw	Oct 3, 2017	Accepted	Predicted Eligible	TRUE	team 48
+Asia Hua-Lien On Site Regional Contest	NTHU_YAO		National Tsing Hua University	cherung@cs.nthu.edu.tw	Oct 27, 2017	Accepted	Predicted Eligible	TRUE	team 49
+Asia Hua-Lien On Site Regional Contest	MCU_Smilodon		Ming Chuan University	yklee@mail.mcu.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 50
+Asia Hua-Lien On Site Regional Contest	CJCU_Team1		Chang Jung Christian University	justim@mail.cjcu.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 51
+Asia Hua-Lien On Site Regional Contest	iNEMU@NCUT		National Chin-Yi University of Technology	a0979293737@gmail.com	Jul 10, 2017	Accepted	Predicted Eligible	TRUE	team 52
+Asia Hua-Lien On Site Regional Contest	NCTU_Yggdrasill		National Chiao Tung University	kcw@cs.nctu.edu.tw	Oct 23, 2017	Accepted	Predicted Eligible	TRUE	team 53
+Asia Hua-Lien On Site Regional Contest	CCU_ToInfinityAndBeyond		National Chung Cheng University	bangye@cs.ccu.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 54
+Asia Hua-Lien On Site Regional Contest	Chihlee No 1.		Chihlee University of Technology	brave.liu@mail.chihlee.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 55
+Asia Hua-Lien On Site Regional Contest	NTPU Kite		National Taipei University	jcchang@mail.ntpu.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 56
+Asia Hua-Lien On Site Regional Contest	TKU_KaTsu		Tamkang University	mspan@mail.tku.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 57
+Asia Hua-Lien On Site Regional Contest	NTOUteam806		National Taiwan Ocean University	wwyhsu@ntou.edu.tw	Oct 27, 2017	Accepted	Predicted Eligible	TRUE	team 58
+Asia Hua-Lien On Site Regional Contest	we_know_nothing_lan_lan_lu~		National Taiwan University	pjcheng@csie.ntu.edu.tw	Oct 3, 2017	Accepted	Predicted Eligible	TRUE	team 59
+Asia Hua-Lien On Site Regional Contest	NUK_404NotFound		National University of Kaohsiung	cfhuang15@nuk.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 60
+Asia Hua-Lien On Site Regional Contest	NCTU_Foudre		National Chiao Tung University	kcw@cs.nctu.edu.tw	Sep 8, 2017	Accepted	Predicted Eligible	TRUE	team 61
+Asia Hua-Lien On Site Regional Contest	JAW		National Taiwan University	pjcheng@csie.ntu.edu.tw	Oct 3, 2017	Accepted	Predicted Eligible	TRUE	team 62
+Asia Hua-Lien On Site Regional Contest	Micropin		National Taiwan Normal University	tcchiang@ieee.org	Oct 23, 2017	Accepted	Predicted Eligible	TRUE	team 63
+Asia Hua-Lien On Site Regional Contest	UserName		National Taiwan Ocean University	wwyhsu@ntou.edu.tw	Oct 23, 2017	Accepted	Predicted Eligible	TRUE	team 64
+Asia Hua-Lien On Site Regional Contest	CCU_PLZAC		National Chung Cheng University	bangye@cs.ccu.edu.tw	Oct 26, 2017	Accepted	Predicted Eligible	TRUE	team 65
+Asia Hua-Lien On Site Regional Contest	WDYLTXWS		National Tsing Hua University	cherung@cs.nthu.edu.tw	Oct 26, 2017	Accepted	Predicted Eligible	TRUE	team 66
+Asia Hua-Lien On Site Regional Contest	0x5f3759df		National Dong Hwa University	ccchiang@gms.ndhu.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 67
+Asia Hua-Lien On Site Regional Contest	Wizards		Shanghai Jiao Tong University	yyu@cs.sjtu.edu.cn	Sep 20, 2017	Accepted	Predicted Eligible	TRUE	team 68
+Asia Hua-Lien On Site Regional Contest	King of coding		National Formosa University	jhjiang@nfu.edu.tw	Sep 12, 2017	Accepted	Predicted Eligible	TRUE	team 69
+Asia Hua-Lien On Site Regional Contest	NUKAM		National University of Kaohsiung	wongkf@nuk.edu.tw	Oct 24, 2017	Accepted	Predicted Eligible	TRUE	team 70
+Asia Hua-Lien On Site Regional Contest	Here comes NTNU old tuna		National Taiwan Normal University	tcchiang@ieee.org	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 71
+Asia Hua-Lien On Site Regional Contest	OnlyBang		National Taichung University of Education	lchang@mail.ntcu.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 72
+Asia Hua-Lien On Site Regional Contest	70x35		National Tsing Hua University	cherung@cs.nthu.edu.tw	Oct 27, 2017	Accepted	Predicted Eligible	TRUE	team 73
+Asia Hua-Lien On Site Regional Contest	( O3O)p <{ WU~ }		Providence University	lhhsu@pu.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 74
+Asia Hua-Lien On Site Regional Contest	Confusing Science		Feng Chia University	nlhsueh@fcu.edu.tw	Oct 16, 2017	Accepted	Verified Eligible	TRUE	team 75
+Asia Hua-Lien On Site Regional Contest	TTU_HBOY		Tatung University	twyu@ttu.edu.tw	Sep 13, 2017	Accepted	Predicted Eligible	TRUE	team 76
+Asia Hua-Lien On Site Regional Contest	Balloons kingdom		Fu Jen Catholic University	shchang@csie.fju.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 77
+Asia Hua-Lien On Site Regional Contest	lam		National Cheng Kung University	tsaimh@csie.ncku.edu.tw	Sep 6, 2017	Accepted	Predicted Eligible	TRUE	team 78
+Asia Hua-Lien On Site Regional Contest	NCTU_Valkyrie		National Chiao Tung University	kcw@cs.nctu.edu.tw	Oct 23, 2017	Accepted	Predicted Eligible	TRUE	team 79
+Asia Hua-Lien On Site Regional Contest	YZUNO1		Yuan Ze University	ichenyeh@saturn.yzu.edu.tw	Sep 13, 2017	Accepted	Predicted Eligible	TRUE	team 80
