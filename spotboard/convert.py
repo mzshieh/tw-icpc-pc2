@@ -9,12 +9,16 @@ parser.add_argument('-i','--input',default='contest.xml',
                     help='PC^2 Contest XML')
 parser.add_argument('-f','--five-field',default='Run5field',
                     help='PC^2 Run 5 Field')
+parser.add_argument('-u','--univ',default='univ.csv',
+                    help='University mapping (csv)')
+parser.add_argument('-t','--team_members',default='team_members.tsv',
+                    help='Team members (tsv)')
 parser.add_argument('-r','--runs',default='runs.json',
                     help='Spotboard runs.json')
 parser.add_argument('-c','--contest',default='contest.json',
                     help='Spotboard contest.json')
-parser.add_argument('-u','--univ',default='univ.csv',
-                    help='University mapping (csv)')
+parser.add_argument('-a','--award-slide',default='award_slide.json',
+                    help='Spotboard award_slide.json')
 
 args = parser.parse_args()
 
@@ -74,7 +78,7 @@ with open(args.univ) as FILE:
     for line in FILE:
         col = eval(line.strip())
         if len(col) < 5: continue
-        team, university = col[2],col[4]
+        team, university = col[2].strip(),col[4].strip()
         univ[team] = university
 # Load contest information from contest.xml
 # balloons = ['darkgreen', 'violet', 'gold', 'gray', 'white', 'purple', 
@@ -101,9 +105,63 @@ with open(args.input) as FILE:
 contest['problems'] = [{'id':i,'name':chr(ord('A')+i),'title':chr(ord('A')+i),'color':balloons[i]}
     for i in range(prob_cnt)]
 
+# Read team members
+members = {}
+with open(args.team_members,'rt') as FILE:
+    it = iter(FILE)
+    # Skip first line
+    next(it)
+    for line in it:
+        col = line.strip('\n').split('\t')
+        col[0] = col[0].strip()
+        members.setdefault(col[0],[])
+        # Coach
+        members[col[0]].append({'group':'Coach','name':col[3]+' '+col[4]})
+        # Co-Coach
+        if col[8]:
+            members[col[0]].append({'group':'Co-Coach','name':col[8]+' '+col[9]})
+        members[col[0]].append({'group':'Contestant','name':col[13]+' '+col[14]})
+        members[col[0]].append({'group':'Contestant','name':col[18]+' '+col[19]})
+        members[col[0]].append({'group':'Contestant','name':col[23]+' '+col[24]})
+        if col[28]:
+            members[col[0]].append({'group':'Reserved','name':col[28]+' '+col[29]})
+
 # Create contest.json
 with open(args.contest,'wt') as FILE:
     print(json.dumps(contest),file=FILE)
 
-for (solved,penalty,lastID), teamID in rank:
+awards = []
+for (solved,penalty,lastID), teamID in rank[:1]:
     print(teams[teamID]['name'],-solved,penalty)
+    awards.append({'id': teamID, 'rank': 'Champion', 'icon': 'crown',
+                   'picture': './img/photo/team{}.jpg'.format(teamID),
+                   'group': univ.get(teams[teamID]['name']), 'name': teams[teamID]['name']})
+    if teams[teamID]['name'] in members:
+        awards[-1]['others']=members[teams[teamID]['name']]
+
+for (solved,penalty,lastID), teamID in rank[1:8]:
+    print(teams[teamID]['name'],-solved,penalty)
+    awards.append({'id': teamID, 'rank': 'Gold Prize', 'icon': 'gold',
+                   'picture': './img/photo/team{}.jpg'.format(teamID),
+                   'group': univ.get(teams[teamID]['name']), 'name': teams[teamID]['name']})
+    if teams[teamID]['name'] in members:
+        awards[-1]['others']=members[teams[teamID]['name']]
+
+for (solved,penalty,lastID), teamID in rank[8:24]:
+    print(teams[teamID]['name'],-solved,penalty)
+    awards.append({'id': teamID, 'rank': 'Silver Prize', 'icon': 'silver',
+                   'picture': './img/photo/team{}.jpg'.format(teamID),
+                   'group': univ.get(teams[teamID]['name']), 'name': teams[teamID]['name']})
+    if teams[teamID]['name'] in members:
+        awards[-1]['others']=members[teams[teamID]['name']]
+
+for (solved,penalty,lastID), teamID in rank[24:48]:
+    print(teams[teamID]['name'],-solved,penalty)
+    awards.append({'id': teamID, 'rank': 'Bronze Prize', 'icon': 'bronze',
+                   'picture': './img/photo/team{}.jpg'.format(teamID),
+                   'group': univ.get(teams[teamID]['name']), 'name': teams[teamID]['name']})
+    if teams[teamID]['name'] in members:
+        awards[-1]['others']=members[teams[teamID]['name']]
+
+with open(args.award_slide,'wt') as FILE:
+    print(json.dumps(awards),file=FILE)
