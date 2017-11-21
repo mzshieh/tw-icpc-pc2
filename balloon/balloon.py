@@ -44,8 +44,9 @@ for line in sys.stdin:
             teamID = s.find('team').text
             penalty = int(float(s.find('time').text)/60)
             # Supposed to be printed here
-            print(teamID,probID,runID,penalty)
-            with open(args.log,'at') as FILE:
-                print(teamID,probID,runID,penalty,file=FILE)
-            delivered[(teamID,probID)]={'run': runID, 'time': penalty}
+            if (teamID,probID) not in delivered:
+                print(teamID,probID,runID,penalty)
+                with open(args.log,'at') as FILE:
+                    print(teamID,probID,runID,penalty,file=FILE)
+                delivered[(teamID,probID)]={'run': runID, 'time': penalty}
         line_buf = []
