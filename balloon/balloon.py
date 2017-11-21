@@ -24,7 +24,7 @@ if args.cont:
                 teamID, probID, runID, penalty = line.strip().split()
                 delivered[(teamID,probID)]={'run': runID, 'time': penalty}
             except:
-                print('failed to parse old log',file=sys.stderr)
+                print('failed to parse old log:',line.strip(),file=sys.stderr)
 
 # Main loop
 line_buf = []
@@ -43,8 +43,9 @@ for line in sys.stdin:
             probID = chr(ord('A')-1+int(s.find('problem').text))
             teamID = s.find('team').text
             penalty = int(float(s.find('time').text)/60)
+            # Supposed to be printed here
+            print(teamID,probID,runID,penalty)
             with open(args.log,'at') as FILE:
                 print(teamID,probID,runID,penalty,file=FILE)
             delivered[(teamID,probID)]={'run': runID, 'time': penalty}
-            print(teamID,probID,runID,penalty)
         line_buf = []
