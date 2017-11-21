@@ -50,3 +50,5 @@ for line in sys.stdin:
                     print(teamID,probID,runID,penalty,file=FILE)
                 delivered[(teamID,probID)]={'run': runID, 'time': penalty}
         line_buf = []
+
+print('The connection to the event feeder is closed.')
