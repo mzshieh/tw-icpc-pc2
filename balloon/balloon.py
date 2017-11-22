@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import sys, os, argparse, re, json
+import time
 from lxml import etree
 from bs4 import BeautifulSoup as Soup
 from subprocess import run
@@ -70,6 +71,7 @@ for line in sys.stdin:
                 with open(args.log,'at') as FILE:
                     print(teamID,probID,runID,penalty,file=FILE)
                 delivered[(teamID,probID)]={'run': runID, 'time': penalty}
+                time.sleep(1)
         line_buf = []
 
 print('The connection to the event feeder is closed.')
