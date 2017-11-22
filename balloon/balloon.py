@@ -13,6 +13,8 @@ parser.add_argument('-c','--cont',default=True,type=eval,
 
 args = parser.parse_args()
 
+os.makedirs('printed',exist_ok=True)
+
 with open(args.log,'at'):
     pass
 
@@ -45,7 +47,26 @@ for line in sys.stdin:
             penalty = int(float(s.find('time').text)/60)
             # Supposed to be printed here
             if (teamID,probID) not in delivered:
-                print(teamID,probID,runID,penalty)
+                filename = 'printed/T{}_P{}_R{}'.format(teamID,probID,runID)
+                with open(filename,'wt') as FILE:
+                    print('''
+
+   Balloon Delivery Sheet
+
+
+
+
+
+  Team {} solved Problem {}
+  Run {} at {} minutes
+
+
+
+
+
+      Delivered by:
+'''.format(teamID,probID,runID,penalty),file=FILE)
+                run(['lp','-o','lpi=1.9','-o','cpi=3.5',filename])
                 with open(args.log,'at') as FILE:
                     print(teamID,probID,runID,penalty,file=FILE)
                 delivered[(teamID,probID)]={'run': runID, 'time': penalty}
