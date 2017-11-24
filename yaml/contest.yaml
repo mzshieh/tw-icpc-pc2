@@ -22,7 +22,7 @@ clar-categories:
 languages:
   - name: 'GNU C'
     active: true
-    compilerCmd: 'pc2box -t 20 -m 3584 -s 1024 -d T -u F gcc -static -O2 -lm -o {:basename}.exe {:mainfile}'
+    compilerCmd: 'pc2box -t 20 -m 3584 -s 1024 -d T -u F gcc -static -O2 -o {:basename}.exe {:mainfile} -lm'
     exemask: '{:basename}.exe'
     execCmd: 'pc2box ./{:basename}.exe'
     runner: 'pc2box'
