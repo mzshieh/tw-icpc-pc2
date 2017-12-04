@@ -86,8 +86,14 @@ def isAC():
             IN = [line.rstrip() for line in FILE]
         with open(args.answer,'rt') as FILE:
             ANS = [line.rstrip() for line in FILE]
+            # remove trailing blank lines
+            while len(ANS) and ANS[-1]=='':
+                ANS.pop()
         with open(args.output,'rt') as FILE:
             OUT = [line.rstrip() for line in FILE]
+            # remove trailing blank lines
+            while len(OUT) and OUT[-1]=='':
+                OUT.pop()
         raiseIfInvalid(IN,ANS,OUT)
     except:
         return False
